@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-de11cfb5ce",
-          "name": "St. Truiden vs Gent | 01:45 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-de11cfb5ce",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-de11cfb5ce",
-                  "name": "St. Truiden vs Gent",
-                  "streams": [
-                    {
-                      "id": "st-de11cfb5ce",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Jupiler Pro League",
-            "team_a": "St. Truiden",
-            "team_b": "Gent",
-            "logo_a": "https://media.api-sports.io/football/teams/735.png",
-            "logo_b": "https://media.api-sports.io/football/teams/631.png",
-            "time": "01:45",
-            "date": "17/05",
-            "blv": "BLV A Cỏ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-de11cfb5ce_c5ace9ba_20260517.png?v=c5ace9ba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-3a001d57fa",
           "name": "Fluminense vs Sao Paulo | 05:00 17/05",
