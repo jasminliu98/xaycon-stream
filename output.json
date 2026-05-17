@@ -777,7 +777,7 @@
           }
         },
         {
-          "id": "xc-51f439a573",
+          "id": "xc-ae2e7340a9",
           "name": "Udinese vs Cremonese | 01:45 18/05",
           "type": "single",
           "display": "thumbnail-only",
@@ -792,23 +792,23 @@
           ],
           "sources": [
             {
-              "id": "src-51f439a573",
+              "id": "src-ae2e7340a9",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-51f439a573",
+                  "id": "ct-ae2e7340a9",
                   "name": "Udinese vs Cremonese",
                   "streams": [
                     {
-                      "id": "st-51f439a573",
+                      "id": "st-ae2e7340a9",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-22f0d2332d",
+                          "id": "lnk-30319ba8f3",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -839,7 +839,7 @@
             "logo_b": "https://1.bp.blogspot.com/-jBb9nJTi22g/Xw1w0zq5ypI/AAAAAAAAaoI/y5xrZ4P7Kg0MDoclmpkw1QJvvFh0JJkBACLcBGAsYHQ/s1600/US-Cremonese_logo_tr_237-design.png",
             "time": "01:45",
             "date": "18/05",
-            "blv": "BLV Văn Tích",
+            "blv": "BLV Bịp Con",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -847,7 +847,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-51f439a573_b85e7956_20260517.png?v=b85e7956",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ae2e7340a9_b85e7956_20260517.png?v=b85e7956",
             "width": 1600,
             "height": 1200
           }
