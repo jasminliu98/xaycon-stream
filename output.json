@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-47c89ec45c",
-          "name": "Manchester United vs Nottingham Forest | 18:30 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-47c89ec45c",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-47c89ec45c",
-                  "name": "Manchester United vs Nottingham Forest",
-                  "streams": [
-                    {
-                      "id": "st-47c89ec45c",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa5c7698a5",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Manchester United",
-            "team_b": "Nottingham Forest",
-            "logo_a": "https://media.api-sports.io/football/teams/33.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
-            "time": "18:30",
-            "date": "17/05",
-            "blv": "BLV Thợ Lặn",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-47c89ec45c_6eb55037_20260517.png?v=6eb55037",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-335c3b0dd3",
           "name": "Brentford vs Crystal Palace | 21:00 17/05",
@@ -164,82 +88,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-335c3b0dd3_b5bb1d06_20260517.png?v=b5bb1d06",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-ad9de00015",
-          "name": "Everton vs Sunderland | 21:00 17/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ad9de00015",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-ad9de00015",
-                  "name": "Everton vs Sunderland",
-                  "streams": [
-                    {
-                      "id": "st-ad9de00015",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Everton",
-            "team_b": "Sunderland",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/7c/Everton_FC_logo.svg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg",
-            "time": "21:00",
-            "date": "17/05",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ad9de00015_442f0b57_20260517.png?v=442f0b57",
             "width": 1600,
             "height": 1200
           }
@@ -397,7 +245,83 @@
           }
         },
         {
-          "id": "xc-66ee64fc48",
+          "id": "xc-33c57ac83e",
+          "name": "Brentford vs Crystal Palace | 21:00 17/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-33c57ac83e",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-33c57ac83e",
+                  "name": "Brentford vs Crystal Palace",
+                  "streams": [
+                    {
+                      "id": "st-33c57ac83e",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Brentford",
+            "team_b": "Crystal Palace",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
+            "time": "21:00",
+            "date": "17/05",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-33c57ac83e_b5bb1d06_20260517.png?v=b5bb1d06",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-efc29d6b08",
           "name": "Newcastle vs West Ham | 23:30 17/05",
           "type": "single",
           "display": "thumbnail-only",
@@ -412,23 +336,23 @@
           ],
           "sources": [
             {
-              "id": "src-66ee64fc48",
+              "id": "src-efc29d6b08",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-66ee64fc48",
+                  "id": "ct-efc29d6b08",
                   "name": "Newcastle vs West Ham",
                   "streams": [
                     {
-                      "id": "st-66ee64fc48",
+                      "id": "st-efc29d6b08",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-257417ff7d",
+                          "id": "lnk-30319ba8f3",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_xaycon/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -459,7 +383,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png",
             "time": "23:30",
             "date": "17/05",
-            "blv": "BLV Xây Con",
+            "blv": "BLV Bịp Con",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -467,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-66ee64fc48_3133b91a_20260517.png?v=3133b91a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-efc29d6b08_3133b91a_20260517.png?v=3133b91a",
             "width": 1600,
             "height": 1200
           }
