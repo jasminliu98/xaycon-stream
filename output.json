@@ -397,7 +397,7 @@
           }
         },
         {
-          "id": "xc-e2179c82b1",
+          "id": "xc-294903e8aa",
           "name": "Lokomotiv Sofia vs Slavia Sofia | 23:30 18/05",
           "type": "single",
           "display": "thumbnail-only",
@@ -412,23 +412,23 @@
           ],
           "sources": [
             {
-              "id": "src-e2179c82b1",
+              "id": "src-294903e8aa",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-e2179c82b1",
+                  "id": "ct-294903e8aa",
                   "name": "Lokomotiv Sofia vs Slavia Sofia",
                   "streams": [
                     {
-                      "id": "st-e2179c82b1",
+                      "id": "st-294903e8aa",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-257417ff7d",
+                          "id": "lnk-19bab7f4de",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_xaycon/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -459,7 +459,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/en/5/52/PFC_Slavia_Sofia.svg",
             "time": "23:30",
             "date": "18/05",
-            "blv": "BLV Xây Con",
+            "blv": "BLV A Cỏ",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -467,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e2179c82b1_4395e237_20260518.png?v=4395e237",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-294903e8aa_4395e237_20260518.png?v=4395e237",
             "width": 1600,
             "height": 1200
           }
