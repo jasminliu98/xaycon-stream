@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-5aa7bfdc77",
-          "name": "Japan U17 vs Uzbekistan U17 | 22:00 19/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5aa7bfdc77",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-5aa7bfdc77",
-                  "name": "Japan U17 vs Uzbekistan U17",
-                  "streams": [
-                    {
-                      "id": "st-5aa7bfdc77",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC U17 Asian Cup",
-            "team_a": "Japan U17",
-            "team_b": "Uzbekistan U17",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png",
-            "logo_b": "https://vcdn1-dulich.vnecdn.net/2018/01/25/Uzbekistan-9909-1516848403.png?w=680&h=0&q=100&dpr=2&fit=crop&s=tdzF4zH_kBQ4H9NlhvHzUA",
-            "time": "22:00",
-            "date": "19/05",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5aa7bfdc77_05df363a_20260520.png?v=05df363a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-966e24d846",
           "name": "Maccabi Haifa vs Hapoel Tel Aviv | 00:30 20/05",
