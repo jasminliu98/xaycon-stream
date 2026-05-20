@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-a5161cf6ad",
-          "name": "SC Freiburg vs Aston Villa | 02:00 21/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a5161cf6ad",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-a5161cf6ad",
-                  "name": "SC Freiburg vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-a5161cf6ad",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96278f5a95",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa League",
-            "team_a": "SC Freiburg",
-            "team_b": "Aston Villa",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
-            "time": "02:00",
-            "date": "21/05",
-            "blv": "BLV Người Kiến",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a5161cf6ad_538febca_20260521.png?v=538febca",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-6728a43630",
           "name": "Gremio vs Palestino | 07:00 21/05",
