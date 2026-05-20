@@ -1763,6 +1763,158 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "xc-e81d785408",
+          "name": "Al-Nassr vs Damac | 01:00 22/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e81d785408",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-e81d785408",
+                  "name": "Al-Nassr vs Damac",
+                  "streams": [
+                    {
+                      "id": "st-e81d785408",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Pro League",
+            "team_a": "Al-Nassr",
+            "team_b": "Damac",
+            "logo_a": "https://media.api-sports.io/football/teams/2939.png",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ggS3YMTs-0OpLlBKWbAgTS3bBzqy8AQrYQ&s",
+            "time": "01:00",
+            "date": "22/05",
+            "blv": "BLV Thợ Lặn",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e81d785408_8564cd1d_20260520.png?v=8564cd1d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-279c42218b",
+          "name": "Utrecht vs Heerenveen | 02:00 22/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-279c42218b",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-279c42218b",
+                  "name": "Utrecht vs Heerenveen",
+                  "streams": [
+                    {
+                      "id": "st-279c42218b",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Eredivisie",
+            "team_a": "Utrecht",
+            "team_b": "Heerenveen",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1898px-Logo_FC_Utrecht.svg.png",
+            "logo_b": "https://media.api-sports.io/football/teams/210.png",
+            "time": "02:00",
+            "date": "22/05",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-279c42218b_f0f8a4a1_20260520.png?v=f0f8a4a1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
