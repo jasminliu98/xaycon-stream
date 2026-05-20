@@ -169,8 +169,8 @@
           }
         },
         {
-          "id": "xc-31c0d0c389",
-          "name": "Lokomotiv Plovdiv vs CSKA Sofia | 23:00 20/05",
+          "id": "xc-58a0f150aa",
+          "name": "KuPS vs FF Jaro | 23:00 20/05",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -184,15 +184,15 @@
           ],
           "sources": [
             {
-              "id": "src-31c0d0c389",
+              "id": "src-58a0f150aa",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-31c0d0c389",
-                  "name": "Lokomotiv Plovdiv vs CSKA Sofia",
+                  "id": "ct-58a0f150aa",
+                  "name": "KuPS vs FF Jaro",
                   "streams": [
                     {
-                      "id": "st-31c0d0c389",
+                      "id": "st-58a0f150aa",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -224,11 +224,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Cup",
-            "team_a": "Lokomotiv Plovdiv",
-            "team_b": "CSKA Sofia",
-            "logo_a": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/6261/brand.gif?itok=ulzziNqw",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/8/8d/CSKA_Sofia_logo.svg",
+            "league": "Veikkausliiga",
+            "team_a": "KuPS",
+            "team_b": "FF Jaro",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/pt/1/13/FF_Jaro_logo.png",
             "time": "23:00",
             "date": "20/05",
             "blv": "BLV Thợ Lặn",
@@ -239,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-31c0d0c389_d6dfdb0f_20260520.png?v=d6dfdb0f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-58a0f150aa_705b01d9_20260520.png?v=705b01d9",
             "width": 1600,
             "height": 1200
           }
