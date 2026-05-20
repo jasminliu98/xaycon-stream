@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-58a0f150aa",
-          "name": "KuPS vs FF Jaro | 23:00 20/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-58a0f150aa",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-58a0f150aa",
-                  "name": "KuPS vs FF Jaro",
-                  "streams": [
-                    {
-                      "id": "st-58a0f150aa",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa5c7698a5",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Veikkausliiga",
-            "team_a": "KuPS",
-            "team_b": "FF Jaro",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/pt/1/13/FF_Jaro_logo.png",
-            "time": "23:00",
-            "date": "20/05",
-            "blv": "BLV Thợ Lặn",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-58a0f150aa_705b01d9_20260521.png?v=705b01d9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-4ccd1a11d7",
           "name": "Rotor Volgograd vs Akron | 23:30 20/05",
