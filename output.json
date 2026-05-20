@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-1fa849be5d",
-          "name": "Ural vs Dinamo Makhachkala | 21:30 20/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1fa849be5d",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-1fa849be5d",
-                  "name": "Ural vs Dinamo Makhachkala",
-                  "streams": [
-                    {
-                      "id": "st-1fa849be5d",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Ural",
-            "team_b": "Dinamo Makhachkala",
-            "logo_a": "https://media.api-sports.io/football/teams/1084.png",
-            "logo_b": "https://media.api-sports.io/football/teams/6813.png",
-            "time": "21:30",
-            "date": "20/05",
-            "blv": "BLV A Cỏ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1fa849be5d_aa449033_20260520.png?v=aa449033",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-886ea8543a",
           "name": "Ilves vs Inter Turku | 22:00 20/05",
