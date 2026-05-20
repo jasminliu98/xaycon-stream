@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-4889c98b60",
-          "name": "AL Masry vs Al Ahly | 00:00 21/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4889c98b60",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-4889c98b60",
-                  "name": "AL Masry vs Al Ahly",
-                  "streams": [
-                    {
-                      "id": "st-4889c98b60",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96278f5a95",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "AL Masry",
-            "team_b": "Al Ahly",
-            "logo_a": "https://static.flashscore.com/res/image/data/rN8awRZA-K8vlWhPS.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/fr/c/c8/Al_Ahly_FC_logo.png",
-            "time": "00:00",
-            "date": "21/05",
-            "blv": "BLV Người Kiến",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4889c98b60_14e12b3d_20260521.png?v=14e12b3d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-a5161cf6ad",
           "name": "SC Freiburg vs Aston Villa | 02:00 21/05",
