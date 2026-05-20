@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-285e579f77",
-          "name": "Selangor vs Buriram United | 20:00 20/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-285e579f77",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-285e579f77",
-                  "name": "Selangor vs Buriram United",
-                  "streams": [
-                    {
-                      "id": "st-285e579f77",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa5c7698a5",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASEAN Club Championship",
-            "team_a": "Selangor",
-            "team_b": "Buriram United",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/960px-Buriram_United_logo.svg.png",
-            "time": "20:00",
-            "date": "20/05",
-            "blv": "BLV Thợ Lặn",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-285e579f77_882d2198_20260520.png?v=882d2198",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-1fa849be5d",
           "name": "Ural vs Dinamo Makhachkala | 21:30 20/05",
