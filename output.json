@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-6c75c09738",
-          "name": "Ajax vs Groningen | 23:45 21/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6c75c09738",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-6c75c09738",
-                  "name": "Ajax vs Groningen",
-                  "streams": [
-                    {
-                      "id": "st-6c75c09738",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Eredivisie",
-            "team_a": "Ajax",
-            "team_b": "Groningen",
-            "logo_a": "https://media.api-sports.io/football/teams/194.png",
-            "logo_b": "https://media.api-sports.io/football/teams/202.png",
-            "time": "23:45",
-            "date": "21/05",
-            "blv": "BLV A Cỏ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6c75c09738_e505bc2d_20260522.png?v=e505bc2d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-4472307c56",
           "name": "Al-Fayha vs Al-Hilal Saudi FC | 01:00 22/05",
