@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-241770ff64",
-          "name": "Atromitos vs Panserraikos | 22:00 21/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-241770ff64",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-241770ff64",
-                  "name": "Atromitos vs Panserraikos",
-                  "streams": [
-                    {
-                      "id": "st-241770ff64",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96278f5a95",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Super League 1",
-            "team_a": "Atromitos",
-            "team_b": "Panserraikos",
-            "logo_a": "https://media.api-sports.io/football/teams/12260.png",
-            "logo_b": "https://media.api-sports.io/football/teams/2099.png",
-            "time": "22:00",
-            "date": "21/05",
-            "blv": "BLV Người Kiến",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-241770ff64_dba0ef51_20260521.png?v=dba0ef51",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-e3629b5915",
           "name": "Brondby vs FC Copenhagen | 23:30 21/05",
