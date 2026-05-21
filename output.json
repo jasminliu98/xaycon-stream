@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-07c1e81f3d",
-          "name": "Inter Kashi vs East Bengal II | 21:00 21/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-07c1e81f3d",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-07c1e81f3d",
-                  "name": "Inter Kashi vs East Bengal II",
-                  "streams": [
-                    {
-                      "id": "st-07c1e81f3d",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22f0d2332d",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian Super League",
-            "team_a": "Inter Kashi",
-            "team_b": "East Bengal II",
-            "logo_a": "https://media.api-sports.io/football/teams/22595.png",
-            "logo_b": "https://media.api-sports.io/football/teams/21137.png",
-            "time": "21:00",
-            "date": "21/05",
-            "blv": "BLV Văn Tích",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-07c1e81f3d_f4fe3f79_20260521.png?v=f4fe3f79",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-febca2089b",
           "name": "Minerva Punjab vs Mumbai City | 21:00 21/05",
