@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-f1a98a9ee0",
-          "name": "Cruz Azul vs U.N.A.M. - Pumas | 09:00 22/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f1a98a9ee0",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-f1a98a9ee0",
-                  "name": "Cruz Azul vs U.N.A.M. - Pumas",
-                  "streams": [
-                    {
-                      "id": "st-f1a98a9ee0",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22f0d2332d",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Liga MX",
-            "team_a": "Cruz Azul",
-            "team_b": "U.N.A.M. - Pumas",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cruz_Azul_2026.png",
-            "logo_b": "https://media.api-sports.io/football/teams/2286.png",
-            "time": "09:00",
-            "date": "22/05",
-            "blv": "BLV Văn Tích",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f1a98a9ee0_070f1a7c_20260522.png?v=070f1a7c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-65fe31d0a6",
           "name": "Arema FC vs PSIM Yogyakarta | 15:30 22/05",
