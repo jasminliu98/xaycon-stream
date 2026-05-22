@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-7be59bed70",
-          "name": "China PR U17 vs Japan U17 | 00:00 23/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7be59bed70",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-7be59bed70",
-                  "name": "China PR U17 vs Japan U17",
-                  "streams": [
-                    {
-                      "id": "st-7be59bed70",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96278f5a95",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC U17 Asian Cup",
-            "team_a": "China PR U17",
-            "team_b": "Japan U17",
-            "logo_a": "https://media.api-sports.io/football/teams/21449.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png",
-            "time": "00:00",
-            "date": "23/05",
-            "blv": "BLV Người Kiến",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-7be59bed70_93f8f986_20260523.png?v=93f8f986",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-3acef80cab",
           "name": "Trabzonspor vs Konyaspor | 00:45 23/05",
