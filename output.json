@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-22658a51c0",
-          "name": "Los Angeles Galaxy vs Houston Dynamo | 09:30 24/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-22658a51c0",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-22658a51c0",
-                  "name": "Los Angeles Galaxy vs Houston Dynamo",
-                  "streams": [
-                    {
-                      "id": "st-22658a51c0",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22f0d2332d",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Major League Soccer",
-            "team_a": "Los Angeles Galaxy",
-            "team_b": "Houston Dynamo",
-            "logo_a": "https://media.api-sports.io/football/teams/1605.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1600.png",
-            "time": "09:30",
-            "date": "24/05",
-            "blv": "BLV Văn Tích",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-22658a51c0_3b0e5c12_20260524.png?v=3b0e5c12",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-0922074ece",
           "name": "Qingdao Jonoon vs Chongqing Tongliang Long | 16:00 24/05",
