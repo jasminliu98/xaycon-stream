@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-489861f22e",
-          "name": "Brighton vs Manchester United | 22:00 24/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-489861f22e",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-489861f22e",
-                  "name": "Brighton vs Manchester United",
-                  "streams": [
-                    {
-                      "id": "st-489861f22e",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96278f5a95",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Brighton",
-            "team_b": "Manchester United",
-            "logo_a": "https://media.api-sports.io/football/teams/51.png",
-            "logo_b": "https://media.api-sports.io/football/teams/33.png",
-            "time": "22:00",
-            "date": "24/05",
-            "blv": "BLV Người Kiến",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-489861f22e_b2b28052_20260524.png?v=b2b28052",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-977bb5656a",
           "name": "Tottenham vs Everton | 22:00 24/05",
@@ -163,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-977bb5656a_1631b3c7_20260524.png?v=1631b3c7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-977bb5656a_1631b3c7_20260525.png?v=1631b3c7",
             "width": 1600,
             "height": 1200
           }
@@ -239,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ca4a63b218_7dd7606b_20260524.png?v=7dd7606b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ca4a63b218_7dd7606b_20260525.png?v=7dd7606b",
             "width": 1600,
             "height": 1200
           }
@@ -315,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0769e1b77f_f035c07b_20260524.png?v=f035c07b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0769e1b77f_f035c07b_20260525.png?v=f035c07b",
             "width": 1600,
             "height": 1200
           }
@@ -391,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8f9d8a8142_ce81fef0_20260524.png?v=ce81fef0",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8f9d8a8142_ce81fef0_20260525.png?v=ce81fef0",
             "width": 1600,
             "height": 1200
           }
@@ -467,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a0c47e0ea3_3749fdcc_20260524.png?v=3749fdcc",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a0c47e0ea3_3749fdcc_20260525.png?v=3749fdcc",
             "width": 1600,
             "height": 1200
           }
@@ -543,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-998ad10eef_e32f3377_20260524.png?v=e32f3377",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-998ad10eef_e32f3377_20260525.png?v=e32f3377",
             "width": 1600,
             "height": 1200
           }
@@ -619,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2809c2c0b4_58c8a9ea_20260524.png?v=58c8a9ea",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2809c2c0b4_58c8a9ea_20260525.png?v=58c8a9ea",
             "width": 1600,
             "height": 1200
           }
@@ -695,7 +619,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5d676253ed_4046872c_20260524.png?v=4046872c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5d676253ed_4046872c_20260525.png?v=4046872c",
             "width": 1600,
             "height": 1200
           }
@@ -771,7 +695,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5e765a7989_3f8bdaaa_20260524.png?v=3f8bdaaa",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5e765a7989_3f8bdaaa_20260525.png?v=3f8bdaaa",
             "width": 1600,
             "height": 1200
           }
@@ -847,7 +771,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f931f7f42c_035d610b_20260524.png?v=035d610b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f931f7f42c_035d610b_20260525.png?v=035d610b",
             "width": 1600,
             "height": 1200
           }
@@ -923,7 +847,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4b2591be93_492bb298_20260524.png?v=492bb298",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4b2591be93_492bb298_20260525.png?v=492bb298",
             "width": 1600,
             "height": 1200
           }
@@ -999,7 +923,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d780da6211_0b48ee20_20260524.png?v=0b48ee20",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d780da6211_0b48ee20_20260525.png?v=0b48ee20",
             "width": 1600,
             "height": 1200
           }
@@ -1075,7 +999,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-95d99bbd93_db25d7b2_20260524.png?v=db25d7b2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-95d99bbd93_db25d7b2_20260525.png?v=db25d7b2",
             "width": 1600,
             "height": 1200
           }
@@ -1151,7 +1075,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e0f714d5af_b77ffadb_20260524.png?v=b77ffadb",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e0f714d5af_b77ffadb_20260525.png?v=b77ffadb",
             "width": 1600,
             "height": 1200
           }
@@ -1227,7 +1151,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ea6a666c36_a10fce4d_20260524.png?v=a10fce4d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ea6a666c36_a10fce4d_20260525.png?v=a10fce4d",
             "width": 1600,
             "height": 1200
           }
@@ -1303,7 +1227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-514037ae33_d0fcfd4d_20260524.png?v=d0fcfd4d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-514037ae33_d0fcfd4d_20260525.png?v=d0fcfd4d",
             "width": 1600,
             "height": 1200
           }
@@ -1379,7 +1303,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5cf74bb1b7_a886c742_20260524.png?v=a886c742",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5cf74bb1b7_a886c742_20260525.png?v=a886c742",
             "width": 1600,
             "height": 1200
           }
@@ -1455,7 +1379,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-83fbd9c61d_cf7d4dd2_20260524.png?v=cf7d4dd2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-83fbd9c61d_cf7d4dd2_20260525.png?v=cf7d4dd2",
             "width": 1600,
             "height": 1200
           }
