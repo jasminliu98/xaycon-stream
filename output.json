@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -88,82 +88,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a0c47e0ea3_3749fdcc_20260525.png?v=3749fdcc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-998ad10eef",
-          "name": "Villarreal vs Atletico Madrid | 02:00 25/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-998ad10eef",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-998ad10eef",
-                  "name": "Villarreal vs Atletico Madrid",
-                  "streams": [
-                    {
-                      "id": "st-998ad10eef",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Villarreal",
-            "team_b": "Atletico Madrid",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",
-            "time": "02:00",
-            "date": "25/05",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-998ad10eef_e32f3377_20260525.png?v=e32f3377",
             "width": 1600,
             "height": 1200
           }
