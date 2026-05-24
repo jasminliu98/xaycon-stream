@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-a72d2a6a53",
-          "name": "Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân | 18:00 24/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a72d2a6a53",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-a72d2a6a53",
-                  "name": "Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân",
-                  "streams": [
-                    {
-                      "id": "st-a72d2a6a53",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V.League 1",
-            "team_a": "Hồng Lĩnh Hà Tĩnh",
-            "team_b": "Công An Nhân Dân",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",
-            "logo_b": "https://media.api-sports.io/football/teams/16400.png",
-            "time": "18:00",
-            "date": "24/05",
-            "blv": "BLV A Cỏ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a72d2a6a53_37472c25_20260524.png?v=37472c25",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-c7d6d80970",
           "name": "Shanghai Shenhua vs Sichuan Jiuniu | 19:00 24/05",
