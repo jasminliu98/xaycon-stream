@@ -911,7 +911,7 @@
             "league": "K League 2",
             "team_a": "Suwon Bluewings",
             "team_b": "Cheonan City",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Suwon_Samsung_Bluewings.svg/923px-Suwon_Samsung_Bluewings.svg.png",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Suwon_Samsung_Bluewings.svg/960px-Suwon_Samsung_Bluewings.svg.png",
             "logo_b": "https://media.api-sports.io/football/teams/7060.png",
             "time": "14:30",
             "date": "25/05",
@@ -923,7 +923,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5d676253ed_f1d8cb6f_20260524.png?v=f1d8cb6f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5d676253ed_4046872c_20260524.png?v=4046872c",
             "width": 1600,
             "height": 1200
           }
@@ -1139,8 +1139,8 @@
             "league": "UEFA U17 Championship - Qualification",
             "team_a": "Croatia U17",
             "team_b": "Belgium U17",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1200px-Flag_of_Croatia.svg.png",
-            "logo_b": "https://img-cache.coccoc.com/image2?i=2&l=22/325425804",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1280px-Flag_of_Belgium.svg.png",
             "time": "18:30",
             "date": "25/05",
             "blv": "BLV Người Kiến",
@@ -1151,7 +1151,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4b2591be93_8b0ab7e5_20260524.png?v=8b0ab7e5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4b2591be93_492bb298_20260524.png?v=492bb298",
             "width": 1600,
             "height": 1200
           }
