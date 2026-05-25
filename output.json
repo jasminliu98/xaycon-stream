@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-f931f7f42c",
-          "name": "Kolding IF vs Hillerød | 18:00 25/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f931f7f42c",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-f931f7f42c",
-                  "name": "Kolding IF vs Hillerød",
-                  "streams": [
-                    {
-                      "id": "st-f931f7f42c",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "1. Division",
-            "team_a": "Kolding IF",
-            "team_b": "Hillerød",
-            "logo_a": "https://media.api-sports.io/football/teams/4676.png",
-            "logo_b": "https://media.api-sports.io/football/teams/6026.png",
-            "time": "18:00",
-            "date": "25/05",
-            "blv": "BLV A Cỏ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f931f7f42c_035d610b_20260525.png?v=035d610b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-4b2591be93",
           "name": "Croatia U17 vs Belgium U17 | 18:30 25/05",
