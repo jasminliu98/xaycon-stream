@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-2809c2c0b4",
-          "name": "U.N.A.M. - Pumas vs Cruz Azul | 08:00 25/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2809c2c0b4",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-2809c2c0b4",
-                  "name": "U.N.A.M. - Pumas vs Cruz Azul",
-                  "streams": [
-                    {
-                      "id": "st-2809c2c0b4",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22f0d2332d",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Liga MX",
-            "team_a": "U.N.A.M. - Pumas",
-            "team_b": "Cruz Azul",
-            "logo_a": "https://media.api-sports.io/football/teams/2286.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cruz_Azul_2026.png",
-            "time": "08:00",
-            "date": "25/05",
-            "blv": "BLV Văn Tích",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2809c2c0b4_58c8a9ea_20260525.png?v=58c8a9ea",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-5d676253ed",
           "name": "Suwon Bluewings vs Cheonan City | 14:30 25/05",
@@ -164,82 +88,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5d676253ed_4046872c_20260525.png?v=4046872c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-5e765a7989",
-          "name": "South Melbourne vs Avondale | 16:30 25/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5e765a7989",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-5e765a7989",
-                  "name": "South Melbourne vs Avondale",
-                  "streams": [
-                    {
-                      "id": "st-5e765a7989",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-22f0d2332d",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Victoria NPL",
-            "team_a": "South Melbourne",
-            "team_b": "Avondale",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/a/a6/South_Melbourne_FC_logo.svg",
-            "logo_b": "https://media.api-sports.io/football/teams/3798.png",
-            "time": "16:30",
-            "date": "25/05",
-            "blv": "BLV Văn Tích",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5e765a7989_3f8bdaaa_20260525.png?v=3f8bdaaa",
             "width": 1600,
             "height": 1200
           }
