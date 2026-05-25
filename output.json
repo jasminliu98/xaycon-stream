@@ -321,8 +321,8 @@
           }
         },
         {
-          "id": "xc-d6b4a74598",
-          "name": "Changnyeong W vs Boeun Sangmu W | 17:00 26/05",
+          "id": "xc-2b0bd07c1d",
+          "name": "Tai'an Tiankuang vs Dalian Kewei | 14:30 26/05",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -336,15 +336,15 @@
           ],
           "sources": [
             {
-              "id": "src-d6b4a74598",
+              "id": "src-2b0bd07c1d",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-d6b4a74598",
-                  "name": "Changnyeong W vs Boeun Sangmu W",
+                  "id": "ct-2b0bd07c1d",
+                  "name": "Tai'an Tiankuang vs Dalian Kewei",
                   "streams": [
                     {
-                      "id": "st-d6b4a74598",
+                      "id": "st-2b0bd07c1d",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -376,12 +376,12 @@
             }
           ],
           "org_metadata": {
-            "league": "WK-League",
-            "team_a": "Changnyeong W",
-            "team_b": "Boeun Sangmu W",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/7/70/Changnyeong_WFC_logo.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/9/91/Mungyeong_Sangmu_WFC.png",
-            "time": "17:00",
+            "league": "League Two",
+            "team_a": "Tai'an Tiankuang",
+            "team_b": "Dalian Kewei",
+            "logo_a": "https://media.api-sports.io/football/teams/19321.png",
+            "logo_b": "https://media.api-sports.io/football/teams/27620.png",
+            "time": "14:30",
             "date": "26/05",
             "blv": "BLV Bịp Con",
             "is_live": false,
@@ -391,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d6b4a74598_8a355fb7_20260526.png?v=8a355fb7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2b0bd07c1d_c5156985_20260526.png?v=c5156985",
             "width": 1600,
             "height": 1200
           }
