@@ -607,8 +607,8 @@
             "league": "WK-League",
             "team_a": "Changnyeong W",
             "team_b": "Boeun Sangmu W",
-            "logo_a": "https://media.api-sports.io/football/teams/14373.png",
-            "logo_b": "https://media.api-sports.io/football/teams/14372.png",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/7/70/Changnyeong_WFC_logo.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/9/91/Mungyeong_Sangmu_WFC.png",
             "time": "17:00",
             "date": "26/05",
             "blv": "BLV Bịp Con",
@@ -619,7 +619,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d6b4a74598_a5ef67a8_20260525.png?v=a5ef67a8",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d6b4a74598_8a355fb7_20260525.png?v=8a355fb7",
             "width": 1600,
             "height": 1200
           }
