@@ -683,8 +683,8 @@
             "league": "WK-League",
             "team_a": "Gumi Sportstoto W",
             "team_b": "Gyeongju W",
-            "logo_a": "https://media.api-sports.io/football/teams/14374.png",
-            "logo_b": "https://media.api-sports.io/football/teams/14375.png",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/3/3c/Gumi_Sportstoto_WFC.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/e/e1/Daejeon_Hydro_%26_Nuclear_Power_FC_logo.png",
             "time": "17:00",
             "date": "27/05",
             "blv": "BLV Bịp Con",
@@ -695,7 +695,83 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-57d43532f0_ef4483bf_20260526.png?v=ef4483bf",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-57d43532f0_08e3af0e_20260526.png?v=08e3af0e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-da2d22f5f5",
+          "name": "Seoul W vs Incheon Red Angels W | 17:00 27/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-da2d22f5f5",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-da2d22f5f5",
+                  "name": "Seoul W vs Incheon Red Angels W",
+                  "streams": [
+                    {
+                      "id": "st-da2d22f5f5",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19bab7f4de",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WK-League",
+            "team_a": "Seoul W",
+            "team_b": "Incheon Red Angels W",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4MaoRq3dS2v_Z7ysN83fD4r1XqTtCfJsc5w&s",
+            "logo_b": "https://media.api-sports.io/football/teams/14377.png",
+            "time": "17:00",
+            "date": "27/05",
+            "blv": "BLV A Cỏ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-da2d22f5f5_90dc9741_20260526.png?v=90dc9741",
             "width": 1600,
             "height": 1200
           }
