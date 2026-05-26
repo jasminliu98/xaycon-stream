@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-c937725caa",
-          "name": "SpVgg Greuther Fürth vs Rot-Weiß Essen | 01:30 27/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c937725caa",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-c937725caa",
-                  "name": "SpVgg Greuther Fürth vs Rot-Weiß Essen",
-                  "streams": [
-                    {
-                      "id": "st-c937725caa",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96278f5a95",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "2. Bundesliga",
-            "team_a": "SpVgg Greuther Fürth",
-            "team_b": "Rot-Weiß Essen",
-            "logo_a": "https://media.api-sports.io/football/teams/178.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1621.png",
-            "time": "01:30",
-            "date": "27/05",
-            "blv": "BLV Người Kiến",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c937725caa_7b2dbd0b_20260527.png?v=7b2dbd0b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-de3391dc26",
           "name": "Saint Etienne vs Nice | 01:45 27/05",
