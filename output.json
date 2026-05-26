@@ -93,8 +93,8 @@
           }
         },
         {
-          "id": "xc-d8bb1f3c0d",
-          "name": "Mariehamn vs Lahti | 22:00 26/05",
+          "id": "xc-e9d20b466b",
+          "name": "FS Jelgava vs FK Liepaja | 22:00 26/05",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -108,15 +108,15 @@
           ],
           "sources": [
             {
-              "id": "src-d8bb1f3c0d",
+              "id": "src-e9d20b466b",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-d8bb1f3c0d",
-                  "name": "Mariehamn vs Lahti",
+                  "id": "ct-e9d20b466b",
+                  "name": "FS Jelgava vs FK Liepaja",
                   "streams": [
                     {
-                      "id": "st-d8bb1f3c0d",
+                      "id": "st-e9d20b466b",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -148,11 +148,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Suomen Cup",
-            "team_a": "Mariehamn",
-            "team_b": "Lahti",
-            "logo_a": "https://media.api-sports.io/football/teams/587.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1166.png",
+            "league": "Virsliga",
+            "team_a": "FS Jelgava",
+            "team_b": "FK Liepaja",
+            "logo_a": "https://media.api-sports.io/football/teams/18834.png",
+            "logo_b": "https://media.api-sports.io/football/teams/661.png",
             "time": "22:00",
             "date": "26/05",
             "blv": "BLV Thợ Lặn",
@@ -163,159 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d8bb1f3c0d_97f19bbe_20260526.png?v=97f19bbe",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-18aacc4930",
-          "name": "HJK Helsinki vs MyPa | 23:00 26/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-18aacc4930",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-18aacc4930",
-                  "name": "HJK Helsinki vs MyPa",
-                  "streams": [
-                    {
-                      "id": "st-18aacc4930",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Suomen Cup",
-            "team_a": "HJK Helsinki",
-            "team_b": "MyPa",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/pt/e/ec/HJK_Helsinki_Logo.png",
-            "logo_b": "https://media.api-sports.io/football/teams/2243.png",
-            "time": "23:00",
-            "date": "26/05",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-18aacc4930_056340f0_20260526.png?v=056340f0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-226f17d173",
-          "name": "Olympic vs AFC Malmo | 23:00 26/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-226f17d173",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-226f17d173",
-                  "name": "Olympic vs AFC Malmo",
-                  "streams": [
-                    {
-                      "id": "st-226f17d173",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Svenska Cupen",
-            "team_a": "Olympic",
-            "team_b": "AFC Malmo",
-            "logo_a": "https://media.api-sports.io/football/teams/12601.png",
-            "logo_b": "https://media.api-sports.io/football/teams/27669.png",
-            "time": "23:00",
-            "date": "26/05",
-            "blv": "BLV A Cỏ",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-226f17d173_9654d537_20260526.png?v=9654d537",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e9d20b466b_55ddb7fd_20260526.png?v=55ddb7fd",
             "width": 1600,
             "height": 1200
           }
