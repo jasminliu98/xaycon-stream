@@ -471,6 +471,918 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "xc-669b21177d",
+          "name": "Flamengo vs Cusco | 07:30 27/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-669b21177d",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-669b21177d",
+                  "name": "Flamengo vs Cusco",
+                  "streams": [
+                    {
+                      "id": "st-669b21177d",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CONMEBOL Libertadores",
+            "team_a": "Flamengo",
+            "team_b": "Cusco",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10013.png",
+            "time": "07:30",
+            "date": "27/05",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-669b21177d_b7b11faa_20260526.png?v=b7b11faa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-cb907300bf",
+          "name": "Xi'an Ronghai vs Qingdao Red Lions | 14:00 27/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cb907300bf",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-cb907300bf",
+                  "name": "Xi'an Ronghai vs Qingdao Red Lions",
+                  "streams": [
+                    {
+                      "id": "st-cb907300bf",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "League Two",
+            "team_a": "Xi'an Ronghai",
+            "team_b": "Qingdao Red Lions",
+            "logo_a": "https://media.api-sports.io/football/teams/20674.png",
+            "logo_b": "https://media.api-sports.io/football/teams/5679.png",
+            "time": "14:00",
+            "date": "27/05",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-cb907300bf_c9eec79b_20260526.png?v=c9eec79b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-57d43532f0",
+          "name": "Gumi Sportstoto W vs Gyeongju W | 17:00 27/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-57d43532f0",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-57d43532f0",
+                  "name": "Gumi Sportstoto W vs Gyeongju W",
+                  "streams": [
+                    {
+                      "id": "st-57d43532f0",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WK-League",
+            "team_a": "Gumi Sportstoto W",
+            "team_b": "Gyeongju W",
+            "logo_a": "https://media.api-sports.io/football/teams/14374.png",
+            "logo_b": "https://media.api-sports.io/football/teams/14375.png",
+            "time": "17:00",
+            "date": "27/05",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-57d43532f0_ef4483bf_20260526.png?v=ef4483bf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-0007f4e158",
+          "name": "Altay vs FC Astana | 18:00 27/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0007f4e158",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-0007f4e158",
+                  "name": "Altay vs FC Astana",
+                  "streams": [
+                    {
+                      "id": "st-0007f4e158",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96278f5a95",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Altay",
+            "team_b": "FC Astana",
+            "logo_a": "https://media.api-sports.io/football/teams/4544.png",
+            "logo_b": "https://media.api-sports.io/football/teams/562.png",
+            "time": "18:00",
+            "date": "27/05",
+            "blv": "BLV Người Kiến",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0007f4e158_e2af1696_20260526.png?v=e2af1696",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-ae647dcb2d",
+          "name": "Buriram United vs Selangor | 19:00 27/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ae647dcb2d",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-ae647dcb2d",
+                  "name": "Buriram United vs Selangor",
+                  "streams": [
+                    {
+                      "id": "st-ae647dcb2d",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Club Championship",
+            "team_a": "Buriram United",
+            "team_b": "Selangor",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/960px-Buriram_United_logo.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/d/d7/Selangor_FC_logo.svg",
+            "time": "19:00",
+            "date": "27/05",
+            "blv": "BLV Thợ Lặn",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ae647dcb2d_42585a84_20260526.png?v=42585a84",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-d8999d7b57",
+          "name": "Irtysh vs Ulytau | 20:00 27/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d8999d7b57",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-d8999d7b57",
+                  "name": "Irtysh vs Ulytau",
+                  "streams": [
+                    {
+                      "id": "st-d8999d7b57",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19bab7f4de",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Irtysh",
+            "team_b": "Ulytau",
+            "logo_a": "https://media.api-sports.io/football/teams/4565.png",
+            "logo_b": "https://media.api-sports.io/football/teams/21010.png",
+            "time": "20:00",
+            "date": "27/05",
+            "blv": "BLV A Cỏ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d8999d7b57_fee17bfa_20260526.png?v=fee17bfa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-960d88110c",
+          "name": "Vertical vs Smorgon | 21:00 27/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-960d88110c",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-960d88110c",
+                  "name": "Vertical vs Smorgon",
+                  "streams": [
+                    {
+                      "id": "st-960d88110c",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Coppa",
+            "team_a": "Vertical",
+            "team_b": "Smorgon",
+            "logo_a": "https://media.api-sports.io/football/teams/27767.png",
+            "logo_b": "https://media.api-sports.io/football/teams/3393.png",
+            "time": "21:00",
+            "date": "27/05",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-960d88110c_aace82eb_20260526.png?v=aace82eb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-cda846508f",
+          "name": "Ilves vs Turku PS | 22:30 27/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cda846508f",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-cda846508f",
+                  "name": "Ilves vs Turku PS",
+                  "streams": [
+                    {
+                      "id": "st-cda846508f",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Suomen Cup",
+            "team_a": "Ilves",
+            "team_b": "Turku PS",
+            "logo_a": "https://media.api-sports.io/football/teams/1163.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1168.png",
+            "time": "22:30",
+            "date": "27/05",
+            "blv": "BLV Thợ Lặn",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-cda846508f_5fa51652_20260526.png?v=5fa51652",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-0d3a7199c4",
+          "name": "Barcelona W vs Real Sociedad W | 00:00 28/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0d3a7199c4",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-0d3a7199c4",
+                  "name": "Barcelona W vs Real Sociedad W",
+                  "streams": [
+                    {
+                      "id": "st-0d3a7199c4",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96278f5a95",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Primera División Femenina",
+            "team_a": "Barcelona W",
+            "team_b": "Real Sociedad W",
+            "logo_a": "https://media.api-sports.io/football/teams/1918.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1912.png",
+            "time": "00:00",
+            "date": "28/05",
+            "blv": "BLV Người Kiến",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0d3a7199c4_efa3f386_20260526.png?v=efa3f386",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-8ff921dc4b",
+          "name": "Eskilstuna United W vs Hammarby W | 00:00 28/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8ff921dc4b",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-8ff921dc4b",
+                  "name": "Eskilstuna United W vs Hammarby W",
+                  "streams": [
+                    {
+                      "id": "st-8ff921dc4b",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Damallsvenskan",
+            "team_a": "Eskilstuna United W",
+            "team_b": "Hammarby W",
+            "logo_a": "https://media.api-sports.io/football/teams/11077.png",
+            "logo_b": "https://media.api-sports.io/football/teams/15630.png",
+            "time": "00:00",
+            "date": "28/05",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8ff921dc4b_79ccddb0_20260526.png?v=79ccddb0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-976f8f0422",
+          "name": "Crystal Palace vs Rayo Vallecano | 02:00 28/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-976f8f0422",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-976f8f0422",
+                  "name": "Crystal Palace vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "st-976f8f0422",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Europa Conference League",
+            "team_a": "Crystal Palace",
+            "team_b": "Rayo Vallecano",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png",
+            "time": "02:00",
+            "date": "28/05",
+            "blv": "BLV Thợ Lặn",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-976f8f0422_4cb9c81e_20260526.png?v=4cb9c81e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-5f8d310849",
+          "name": "Crystal Palace vs Rayo Vallecano | 02:00 28/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5f8d310849",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-5f8d310849",
+                  "name": "Crystal Palace vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "st-5f8d310849",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96278f5a95",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Europa Conference League",
+            "team_a": "Crystal Palace",
+            "team_b": "Rayo Vallecano",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png",
+            "time": "02:00",
+            "date": "28/05",
+            "blv": "BLV Người Kiến",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5f8d310849_4cb9c81e_20260526.png?v=4cb9c81e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
