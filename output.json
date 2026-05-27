@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -176,10 +176,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -232,7 +232,7 @@
             "time": "21:00",
             "date": "27/05",
             "blv": "BLV Tam Mao",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
@@ -620,6 +620,82 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-648b31a32c_f1fb08f0_20260527.png?v=f1fb08f0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-dcac73f554",
+          "name": "Belgium U17 vs Spain U17 | 18:30 28/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dcac73f554",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-dcac73f554",
+                  "name": "Belgium U17 vs Spain U17",
+                  "streams": [
+                    {
+                      "id": "st-dcac73f554",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6de9170b",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA U17 Championship",
+            "team_a": "Belgium U17",
+            "team_b": "Spain U17",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1280px-Flag_of_Belgium.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png",
+            "time": "18:30",
+            "date": "28/05",
+            "blv": "BLV Quan Vũ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-dcac73f554_90a2dd87_20260527.png?v=90a2dd87",
             "width": 1600,
             "height": 1200
           }
