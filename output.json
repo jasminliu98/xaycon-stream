@@ -245,8 +245,8 @@
           }
         },
         {
-          "id": "xc-cda846508f",
-          "name": "Ilves vs Turku PS | 22:30 27/05",
+          "id": "xc-dd5ffccc2e",
+          "name": "Artis vs Slovácko | 23:00 27/05",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -260,15 +260,15 @@
           ],
           "sources": [
             {
-              "id": "src-cda846508f",
+              "id": "src-dd5ffccc2e",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-cda846508f",
-                  "name": "Ilves vs Turku PS",
+                  "id": "ct-dd5ffccc2e",
+                  "name": "Artis vs Slovácko",
                   "streams": [
                     {
-                      "id": "st-cda846508f",
+                      "id": "st-dd5ffccc2e",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -300,12 +300,12 @@
             }
           ],
           "org_metadata": {
-            "league": "Suomen Cup",
-            "team_a": "Ilves",
-            "team_b": "Turku PS",
-            "logo_a": "https://media.api-sports.io/football/teams/1163.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1168.png",
-            "time": "22:30",
+            "league": "Czech Liga",
+            "team_a": "Artis",
+            "team_b": "Slovácko",
+            "logo_a": "https://media.api-sports.io/football/teams/4257.png",
+            "logo_b": "https://media.api-sports.io/football/teams/3719.png",
+            "time": "23:00",
             "date": "27/05",
             "blv": "BLV Thợ Lặn",
             "is_live": false,
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-cda846508f_5fa51652_20260527.png?v=5fa51652",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-dd5ffccc2e_ead96d6a_20260527.png?v=ead96d6a",
             "width": 1600,
             "height": 1200
           }
