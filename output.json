@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -240,6 +240,82 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-063e23498a_a3d3d658_20260529.png?v=a3d3d658",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-21f6b4bad3",
+          "name": "Egypt vs Russia | 01:00 29/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-21f6b4bad3",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-21f6b4bad3",
+                  "name": "Egypt vs Russia",
+                  "streams": [
+                    {
+                      "id": "st-21f6b4bad3",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19bab7f4de",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Egypt",
+            "team_b": "Russia",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
+            "logo_b": "https://media.api-sports.io/football/teams/4.png",
+            "time": "01:00",
+            "date": "29/05",
+            "blv": "BLV A Cỏ",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-21f6b4bad3_9816269f_20260529.png?v=9816269f",
             "width": 1600,
             "height": 1200
           }
