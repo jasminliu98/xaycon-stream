@@ -17,82 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "xc-063e23498a",
-          "name": "Al Fahaheel vs Al Salmiyah | 23:20 28/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-063e23498a",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-063e23498a",
-                  "name": "Al Fahaheel vs Al Salmiyah",
-                  "streams": [
-                    {
-                      "id": "st-063e23498a",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Al Fahaheel",
-            "team_b": "Al Salmiyah",
-            "logo_a": "https://media.api-sports.io/football/teams/3533.png",
-            "logo_b": "https://media.api-sports.io/football/teams/3538.png",
-            "time": "23:20",
-            "date": "28/05",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-063e23498a_a3d3d658_20260529.png?v=a3d3d658",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "xc-21f6b4bad3",
           "name": "Egypt vs Russia | 01:00 29/05",
           "type": "single",
@@ -176,10 +100,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -232,7 +156,7 @@
             "time": "01:45",
             "date": "29/05",
             "blv": "BLV Tam Mao",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
