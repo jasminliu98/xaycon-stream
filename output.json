@@ -836,7 +836,7 @@
             "team_a": "Ningbo Professional",
             "team_b": "Nantong Zhiyun",
             "logo_a": "https://media.api-sports.io/football/teams/27556.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Nantong_Zhiyun_F.C.svg/843px-Nantong_Zhiyun_F.C.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Nantong_Zhiyun_F.C.svg/960px-Nantong_Zhiyun_F.C.svg.png",
             "time": "18:00",
             "date": "29/05",
             "blv": "BLV A Cỏ",
@@ -847,7 +847,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ef1c17195c_2f065e5c_20260528.png?v=2f065e5c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ef1c17195c_4f100193_20260528.png?v=4f100193",
             "width": 1600,
             "height": 1200
           }
@@ -1063,8 +1063,8 @@
             "league": "Pro League A",
             "team_a": "Qiziriq",
             "team_b": "Aral",
-            "logo_a": "https://media.api-sports.io/football/teams/23394.png",
-            "logo_b": "https://media.api-sports.io/football/teams/18785.png",
+            "logo_a": "https://tmssl.akamaized.net//images/wappen/head/118766.png?lm=1712127678",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aral_Logo.svg/1280px-Aral_Logo.svg.png",
             "time": "19:00",
             "date": "29/05",
             "blv": "BLV Quan Vũ",
@@ -1075,7 +1075,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-90acf9c84f_7baee2ee_20260528.png?v=7baee2ee",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-90acf9c84f_3b8e1e1b_20260528.png?v=3b8e1e1b",
             "width": 1600,
             "height": 1200
           }
@@ -1380,6 +1380,158 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0fce4847e7_f5d8dc0c_20260528.png?v=f5d8dc0c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-e4ec55fe54",
+          "name": "Monza vs Catanzaro | 01:00 30/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e4ec55fe54",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-e4ec55fe54",
+                  "name": "Monza vs Catanzaro",
+                  "streams": [
+                    {
+                      "id": "st-e4ec55fe54",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie B",
+            "team_a": "Monza",
+            "team_b": "Catanzaro",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1458px-A.C._Monza_logo_%282019%29.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/4/40/US_Catanzaro_1929_crest.svg",
+            "time": "01:00",
+            "date": "30/05",
+            "blv": "BLV Thợ Lặn",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e4ec55fe54_914aeff0_20260528.png?v=914aeff0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-6a6d19544f",
+          "name": "Nice vs Saint Etienne | 01:45 30/05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a6d19544f",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-6a6d19544f",
+                  "name": "Nice vs Saint Etienne",
+                  "streams": [
+                    {
+                      "id": "st-6a6d19544f",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Nice",
+            "team_b": "Saint Etienne",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
+            "logo_b": "https://media.api-sports.io/football/teams/1063.png",
+            "time": "01:45",
+            "date": "30/05",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6a6d19544f_02e29ea3_20260528.png?v=02e29ea3",
             "width": 1600,
             "height": 1200
           }
