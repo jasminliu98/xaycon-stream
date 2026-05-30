@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-64d9ab130b",
-          "name": "Vissel Kobe vs Kashima | 12:00 30/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-64d9ab130b",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-64d9ab130b",
-                  "name": "Vissel Kobe vs Kashima",
-                  "streams": [
-                    {
-                      "id": "st-64d9ab130b",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ab6de9170b",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "J1 League",
-            "team_a": "Vissel Kobe",
-            "team_b": "Kashima",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vissel_Kobe_logo.svg",
-            "logo_b": "https://media.api-sports.io/football/teams/290.png",
-            "time": "12:00",
-            "date": "30/05",
-            "blv": "BLV Quan Vũ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-64d9ab130b_908e690f_20260530.png?v=908e690f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-34f97d4f5b",
           "name": "V-varen Nagasaki vs Mito Hollyhock | 15:00 30/05",
