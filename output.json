@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-24c9da8d28",
-          "name": "Castellón vs Eibar | 23:30 31/05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-24c9da8d28",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-24c9da8d28",
-                  "name": "Castellón vs Eibar",
-                  "streams": [
-                    {
-                      "id": "st-24c9da8d28",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Segunda División",
-            "team_a": "Castellón",
-            "team_b": "Eibar",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Logo_of_CD_Castell%C3%B3n.svg/960px-Logo_of_CD_Castell%C3%B3n.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SD_Eibar_logo_2016.svg/960px-SD_Eibar_logo_2016.svg.png",
-            "time": "23:30",
-            "date": "31/05",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-24c9da8d28_bcf5ce01_20260601.png?v=bcf5ce01",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-3bfe8bd94d",
           "name": "Gent vs Genk | 23:30 31/05",
