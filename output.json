@@ -1003,6 +1003,462 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "xc-c4504f0777",
+          "name": "Malaysia U19 vs Singapore U19 | 20:00 02/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c4504f0777",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-c4504f0777",
+                  "name": "Malaysia U19 vs Singapore U19",
+                  "streams": [
+                    {
+                      "id": "st-c4504f0777",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Championship U19",
+            "team_a": "Malaysia U19",
+            "team_b": "Singapore U19",
+            "logo_a": "https://media.api-sports.io/football/teams/19151.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+            "time": "20:00",
+            "date": "02/06",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c4504f0777_7fb99ade_20260601.png?v=7fb99ade",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-5e8231eb96",
+          "name": "Erbil vs Baghdad | 22:00 02/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5e8231eb96",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-5e8231eb96",
+                  "name": "Erbil vs Baghdad",
+                  "streams": [
+                    {
+                      "id": "st-5e8231eb96",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19bab7f4de",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Iraqi League",
+            "team_a": "Erbil",
+            "team_b": "Baghdad",
+            "logo_a": "https://media.api-sports.io/football/teams/11070.png",
+            "logo_b": "https://media.api-sports.io/football/teams/11069.png",
+            "time": "22:00",
+            "date": "02/06",
+            "blv": "BLV A Cỏ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5e8231eb96_2e1130e4_20260601.png?v=2e1130e4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-df21595b64",
+          "name": "Croatia vs Belgium | 23:00 02/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-df21595b64",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-df21595b64",
+                  "name": "Croatia vs Belgium",
+                  "streams": [
+                    {
+                      "id": "st-df21595b64",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Croatia",
+            "team_b": "Belgium",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/3840px-Flag_of_Croatia.svg.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1.png",
+            "time": "23:00",
+            "date": "02/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-df21595b64_ecca250f_20260601.png?v=ecca250f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-3ff125e151",
+          "name": "Georgia vs Romania | 00:00 03/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3ff125e151",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-3ff125e151",
+                  "name": "Georgia vs Romania",
+                  "streams": [
+                    {
+                      "id": "st-3ff125e151",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Georgia",
+            "team_b": "Romania",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png",
+            "time": "00:00",
+            "date": "03/06",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3ff125e151_8aeeb085_20260601.png?v=8aeeb085",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-d9be31107a",
+          "name": "Al Shorta vs Al Minaa Basra | 00:30 03/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d9be31107a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-d9be31107a",
+                  "name": "Al Shorta vs Al Minaa Basra",
+                  "streams": [
+                    {
+                      "id": "st-d9be31107a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19bab7f4de",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Iraqi League",
+            "team_a": "Al Shorta",
+            "team_b": "Al Minaa Basra",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/0/04/Al-Shorta_Sports_Club_%28Iraq%29_Crest.png",
+            "logo_b": "https://media.api-sports.io/football/teams/11065.png",
+            "time": "00:30",
+            "date": "03/06",
+            "blv": "BLV A Cỏ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d9be31107a_d99d4709_20260601.png?v=d99d4709",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-9015b77637",
+          "name": "Wales vs Ghana | 01:45 03/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9015b77637",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-9015b77637",
+                  "name": "Wales vs Ghana",
+                  "streams": [
+                    {
+                      "id": "st-9015b77637",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Wales",
+            "team_b": "Ghana",
+            "logo_a": "https://media.api-sports.io/football/teams/767.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1280px-Flag_of_Ghana.svg.png",
+            "time": "01:45",
+            "date": "03/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-9015b77637_9b5df938_20260601.png?v=9b5df938",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
