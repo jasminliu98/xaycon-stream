@@ -623,6 +623,386 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "xc-41f6591f7c",
+          "name": "Colombia vs Costa Rica | 06:00 02/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-41f6591f7c",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-41f6591f7c",
+                  "name": "Colombia vs Costa Rica",
+                  "streams": [
+                    {
+                      "id": "st-41f6591f7c",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6de9170b",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Colombia",
+            "team_b": "Costa Rica",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png",
+            "time": "06:00",
+            "date": "02/06",
+            "blv": "BLV Quan Vũ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-41f6591f7c_33d8c13a_20260601.png?v=33d8c13a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-0795f777fc",
+          "name": "Canada vs Uzbekistan | 08:00 02/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0795f777fc",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-0795f777fc",
+                  "name": "Canada vs Uzbekistan",
+                  "streams": [
+                    {
+                      "id": "st-0795f777fc",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6de9170b",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Canada",
+            "team_b": "Uzbekistan",
+            "logo_a": "https://media.api-sports.io/football/teams/5529.png",
+            "logo_b": "https://cdn.pixabay.com/photo/2013/07/13/14/17/uzbekistan-162456_1280.png",
+            "time": "08:00",
+            "date": "02/06",
+            "blv": "BLV Quan Vũ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0795f777fc_0b027cdd_20260601.png?v=0b027cdd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-c2cc2c952a",
+          "name": "Thailand U19 vs Brunei U19 | 16:00 02/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c2cc2c952a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-c2cc2c952a",
+                  "name": "Thailand U19 vs Brunei U19",
+                  "streams": [
+                    {
+                      "id": "st-c2cc2c952a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6de9170b",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Championship U19",
+            "team_a": "Thailand U19",
+            "team_b": "Brunei U19",
+            "logo_a": "https://media.api-sports.io/football/teams/19155.png",
+            "logo_b": "https://media.api-sports.io/football/teams/19147.png",
+            "time": "16:00",
+            "date": "02/06",
+            "blv": "BLV Quan Vũ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c2cc2c952a_73263533_20260601.png?v=73263533",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-d5fdc535bd",
+          "name": "Podbeskidzie vs Śląsk Wrocław II | 18:00 02/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d5fdc535bd",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-d5fdc535bd",
+                  "name": "Podbeskidzie vs Śląsk Wrocław II",
+                  "streams": [
+                    {
+                      "id": "st-d5fdc535bd",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19bab7f4de",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "II Liga - East",
+            "team_a": "Podbeskidzie",
+            "team_b": "Śląsk Wrocław II",
+            "logo_a": "https://media.api-sports.io/football/teams/3489.png",
+            "logo_b": "https://media.api-sports.io/football/teams/12900.png",
+            "time": "18:00",
+            "date": "02/06",
+            "blv": "BLV A Cỏ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d5fdc535bd_1edb0bd1_20260601.png?v=1edb0bd1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-bccea3146d",
+          "name": "Brunei vs Timor-Leste | 19:15 02/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bccea3146d",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-bccea3146d",
+                  "name": "Brunei vs Timor-Leste",
+                  "streams": [
+                    {
+                      "id": "st-bccea3146d",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Championship",
+            "team_a": "Brunei",
+            "team_b": "Timor-Leste",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwIDcwq4oT1Zh1_46HFg_wPJJRdS3NyWybA&s",
+            "logo_b": "https://media.api-sports.io/football/teams/5537.png",
+            "time": "19:15",
+            "date": "02/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-bccea3146d_a08f0988_20260601.png?v=a08f0988",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
