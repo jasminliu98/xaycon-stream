@@ -245,8 +245,8 @@
           }
         },
         {
-          "id": "xc-d9be31107a",
-          "name": "Al Shorta vs Al Minaa Basra | 00:30 03/06",
+          "id": "xc-ff428cedf2",
+          "name": "Morocco vs Madagascar | 00:00 03/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -260,15 +260,15 @@
           ],
           "sources": [
             {
-              "id": "src-d9be31107a",
+              "id": "src-ff428cedf2",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-d9be31107a",
-                  "name": "Al Shorta vs Al Minaa Basra",
+                  "id": "ct-ff428cedf2",
+                  "name": "Morocco vs Madagascar",
                   "streams": [
                     {
-                      "id": "st-d9be31107a",
+                      "id": "st-ff428cedf2",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -300,12 +300,12 @@
             }
           ],
           "org_metadata": {
-            "league": "Iraqi League",
-            "team_a": "Al Shorta",
-            "team_b": "Al Minaa Basra",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/0/04/Al-Shorta_Sports_Club_%28Iraq%29_Crest.png",
-            "logo_b": "https://media.api-sports.io/football/teams/11065.png",
-            "time": "00:30",
+            "league": "Friendlies",
+            "team_a": "Morocco",
+            "team_b": "Madagascar",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1490.png",
+            "time": "00:00",
             "date": "03/06",
             "blv": "BLV A Cỏ",
             "is_live": false,
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d9be31107a_d99d4709_20260602.png?v=d99d4709",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ff428cedf2_68e6ab9b_20260602.png?v=68e6ab9b",
             "width": 1600,
             "height": 1200
           }
