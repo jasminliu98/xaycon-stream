@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-1df5aa45f9",
-          "name": "Philippines U19 vs Australia U19 | 20:00 03/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1df5aa45f9",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-1df5aa45f9",
-                  "name": "Philippines U19 vs Australia U19",
-                  "streams": [
-                    {
-                      "id": "st-1df5aa45f9",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-221ed1ffcc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASEAN Championship U19",
-            "team_a": "Philippines U19",
-            "team_b": "Australia U19",
-            "logo_a": "https://media.api-sports.io/football/teams/19153.png",
-            "logo_b": "https://media.api-sports.io/football/teams/22591.png",
-            "time": "20:00",
-            "date": "03/06",
-            "blv": "BLV Rồng Đất",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1df5aa45f9_8de89c1c_20260603.png?v=8de89c1c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-5d01516e6a",
           "name": "Montenegro U19 vs Georgia U19 | 22:00 03/06",
