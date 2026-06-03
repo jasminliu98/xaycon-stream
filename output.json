@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-a5e02edf27",
-          "name": "Philippines vs Guam | 18:30 03/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a5e02edf27",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-a5e02edf27",
-                  "name": "Philippines vs Guam",
-                  "streams": [
-                    {
-                      "id": "st-a5e02edf27",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Philippines",
-            "team_b": "Guam",
-            "logo_a": "https://img.freepik.com/free-vector/illustration-philippinesflag_53876-27126.jpg?semt=ais_hybrid&w=740&q=80",
-            "logo_b": "https://media.api-sports.io/football/teams/8119.png",
-            "time": "18:30",
-            "date": "03/06",
-            "blv": "BLV A Cỏ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a5e02edf27_f956b9b1_20260603.png?v=f956b9b1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-28564ca7e8",
           "name": "China W vs Russia W | 18:35 03/06",
@@ -380,7 +304,7 @@
             "team_a": "Ấn Độ",
             "team_b": "Bhutan",
             "logo_a": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/2560px-Flag_of_Bhutan.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1280px-Flag_of_Bhutan.svg.png",
             "time": "21:30",
             "date": "03/06",
             "blv": "BLV Quan Vũ",
@@ -391,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b8c6d22d5a_36b5bd23_20260603.png?v=36b5bd23",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b8c6d22d5a_67a136f6_20260603.png?v=67a136f6",
             "width": 1600,
             "height": 1200
           }
@@ -1215,8 +1139,8 @@
             "league": "Friendlies",
             "team_a": "Maldives",
             "team_b": "Pakistan",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/720px-Flag_of_Maldives.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png",
             "time": "18:00",
             "date": "04/06",
             "blv": "BLV A Cỏ",
@@ -1227,7 +1151,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-fe1ad1d525_162e7dca_20260603.png?v=162e7dca",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-fe1ad1d525_8acd622f_20260603.png?v=8acd622f",
             "width": 1600,
             "height": 1200
           }
@@ -1444,7 +1368,7 @@
             "team_a": "Cambodia",
             "team_b": "Bhutan",
             "logo_a": "https://media.api-sports.io/football/teams/1543.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/2560px-Flag_of_Bhutan.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1280px-Flag_of_Bhutan.svg.png",
             "time": "19:00",
             "date": "04/06",
             "blv": "BLV Bịp Con",
@@ -1455,7 +1379,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ac960092bb_5ea94d22_20260603.png?v=5ea94d22",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ac960092bb_d85f5069_20260603.png?v=d85f5069",
             "width": 1600,
             "height": 1200
           }
@@ -1520,7 +1444,7 @@
             "team_a": "Latvia U19",
             "team_b": "Lithuania U19",
             "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/330px-Flag_of_Latvia.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/250px-Flag_of_Lithuania.svg.png",
             "time": "21:00",
             "date": "04/06",
             "blv": "BLV Rồng Đất",
@@ -1531,7 +1455,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0a8c4500d5_667c31a7_20260603.png?v=667c31a7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0a8c4500d5_13974510_20260603.png?v=13974510",
             "width": 1600,
             "height": 1200
           }
@@ -1760,6 +1684,310 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3476ddd7ca_b86b792c_20260603.png?v=b86b792c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-0c27562376",
+          "name": "Italy U17 vs Spain U17 | 00:00 05/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0c27562376",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-0c27562376",
+                  "name": "Italy U17 vs Spain U17",
+                  "streams": [
+                    {
+                      "id": "st-0c27562376",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA U17 Championship",
+            "team_a": "Italy U17",
+            "team_b": "Spain U17",
+            "logo_a": "https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/250px-Bandera_de_Espa%C3%B1a.svg.png",
+            "time": "00:00",
+            "date": "05/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0c27562376_369eed30_20260603.png?v=369eed30",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-95360e8d61",
+          "name": "Sweden vs Greece | 00:00 05/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-95360e8d61",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-95360e8d61",
+                  "name": "Sweden vs Greece",
+                  "streams": [
+                    {
+                      "id": "st-95360e8d61",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Sweden",
+            "team_b": "Greece",
+            "logo_a": "https://media.api-sports.io/football/teams/5.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1117.png",
+            "time": "00:00",
+            "date": "05/06",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-95360e8d61_168bbf45_20260603.png?v=168bbf45",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-72f2b1ab85",
+          "name": "Spain vs Iraq | 02:00 05/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-72f2b1ab85",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-72f2b1ab85",
+                  "name": "Spain vs Iraq",
+                  "streams": [
+                    {
+                      "id": "st-72f2b1ab85",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Spain",
+            "team_b": "Iraq",
+            "logo_a": "https://media.api-sports.io/football/teams/9.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/250px-Flag_of_Iraq.svg.png",
+            "time": "02:00",
+            "date": "05/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-72f2b1ab85_a6e56854_20260603.png?v=a6e56854",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-8ca3b1cf1a",
+          "name": "France vs Ivory Coast | 02:10 05/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8ca3b1cf1a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-8ca3b1cf1a",
+                  "name": "France vs Ivory Coast",
+                  "streams": [
+                    {
+                      "id": "st-8ca3b1cf1a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "France",
+            "team_b": "Ivory Coast",
+            "logo_a": "https://media.api-sports.io/football/teams/2.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+            "time": "02:10",
+            "date": "05/06",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8ca3b1cf1a_460aae66_20260603.png?v=460aae66",
             "width": 1600,
             "height": 1200
           }
