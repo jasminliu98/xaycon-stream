@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -240,82 +240,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f2dd190937_90ae8a26_20260603.png?v=90ae8a26",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-932a24c454",
-          "name": "U23 Nữ Thụy Điển - U23 Nữ Na Uy | 23:30 03/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-932a24c454",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-932a24c454",
-                  "name": "U23 Nữ Thụy Điển - U23 Nữ Na Uy",
-                  "streams": [
-                    {
-                      "id": "st-932a24c454",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "U23 Nữ Châu Âu",
-            "team_a": "U23 Nữ Thụy Điển",
-            "team_b": "U23 Nữ Na Uy",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Norge-Unionsflagg-1844.svg/250px-Norge-Unionsflagg-1844.svg.png",
-            "time": "23:30",
-            "date": "03/06",
-            "blv": "BLV A Cỏ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-932a24c454_08bd8376_20260603.png?v=08bd8376",
             "width": 1600,
             "height": 1200
           }
