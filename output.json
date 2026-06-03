@@ -11,163 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-5d01516e6a",
-          "name": "Montenegro U19 vs Georgia U19 | 22:00 03/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5d01516e6a",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-5d01516e6a",
-                  "name": "Montenegro U19 vs Georgia U19",
-                  "streams": [
-                    {
-                      "id": "st-5d01516e6a",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-221ed1ffcc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA U19 Championship - Qualification",
-            "team_a": "Montenegro U19",
-            "team_b": "Georgia U19",
-            "logo_a": "https://media.api-sports.io/football/teams/10374.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
-            "time": "22:00",
-            "date": "03/06",
-            "blv": "BLV Rồng Đất",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5d01516e6a_ce9a66d7_20260603.png?v=ce9a66d7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-8f47f941db",
-          "name": "Jordan Nữ vs Nữ Malaysia | 22:00 03/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8f47f941db",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-8f47f941db",
-                  "name": "Jordan Nữ vs Nữ Malaysia",
-                  "streams": [
-                    {
-                      "id": "st-8f47f941db",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu Quốc tế Nữ",
-            "team_a": "Jordan Nữ",
-            "team_b": "Malaysia Nữ",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1280px-Flag_of_Malaysia.svg.png",
-            "time": "22:00",
-            "date": "03/06",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8f47f941db_ea6efee4_20260603.png?v=ea6efee4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-f2dd190937",
           "name": "Croatia U21 vs Qatar U20 | 22:30 03/06",
@@ -239,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f2dd190937_90ae8a26_20260603.png?v=90ae8a26",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f2dd190937_90ae8a26_20260604.png?v=90ae8a26",
             "width": 1600,
             "height": 1200
           }
@@ -315,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c9384687df_56ffc6a3_20260603.png?v=56ffc6a3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c9384687df_56ffc6a3_20260604.png?v=56ffc6a3",
             "width": 1600,
             "height": 1200
           }
@@ -391,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-08bfff9b60_0dbedeff_20260603.png?v=0dbedeff",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-08bfff9b60_0dbedeff_20260604.png?v=0dbedeff",
             "width": 1600,
             "height": 1200
           }
@@ -467,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a7f6436f45_b5401d2f_20260603.png?v=b5401d2f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a7f6436f45_b5401d2f_20260604.png?v=b5401d2f",
             "width": 1600,
             "height": 1200
           }
@@ -543,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-da8dbf4745_61d018eb_20260603.png?v=61d018eb",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-da8dbf4745_61d018eb_20260604.png?v=61d018eb",
             "width": 1600,
             "height": 1200
           }
@@ -619,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4115b48283_bda06d39_20260603.png?v=bda06d39",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4115b48283_bda06d39_20260604.png?v=bda06d39",
             "width": 1600,
             "height": 1200
           }
@@ -695,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f278e83e0e_a60a0dae_20260603.png?v=a60a0dae",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f278e83e0e_a60a0dae_20260604.png?v=a60a0dae",
             "width": 1600,
             "height": 1200
           }
@@ -771,7 +619,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-df48af3936_740d8ac1_20260603.png?v=740d8ac1",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-df48af3936_740d8ac1_20260604.png?v=740d8ac1",
             "width": 1600,
             "height": 1200
           }
@@ -847,7 +695,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-fe1ad1d525_8acd622f_20260603.png?v=8acd622f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-fe1ad1d525_8acd622f_20260604.png?v=8acd622f",
             "width": 1600,
             "height": 1200
           }
@@ -923,7 +771,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b76ef94969_3d4ab6c7_20260603.png?v=3d4ab6c7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b76ef94969_3d4ab6c7_20260604.png?v=3d4ab6c7",
             "width": 1600,
             "height": 1200
           }
@@ -999,7 +847,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1207b35c9f_2463ec34_20260603.png?v=2463ec34",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1207b35c9f_2463ec34_20260604.png?v=2463ec34",
             "width": 1600,
             "height": 1200
           }
@@ -1075,7 +923,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ac960092bb_d85f5069_20260603.png?v=d85f5069",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ac960092bb_d85f5069_20260604.png?v=d85f5069",
             "width": 1600,
             "height": 1200
           }
@@ -1151,7 +999,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0a8c4500d5_13974510_20260603.png?v=13974510",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0a8c4500d5_13974510_20260604.png?v=13974510",
             "width": 1600,
             "height": 1200
           }
@@ -1227,7 +1075,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-cd2ddbac79_d7dec957_20260603.png?v=d7dec957",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-cd2ddbac79_d7dec957_20260604.png?v=d7dec957",
             "width": 1600,
             "height": 1200
           }
@@ -1303,7 +1151,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d01804d97d_ee7361f6_20260603.png?v=ee7361f6",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d01804d97d_ee7361f6_20260604.png?v=ee7361f6",
             "width": 1600,
             "height": 1200
           }
@@ -1379,7 +1227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3476ddd7ca_b86b792c_20260603.png?v=b86b792c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3476ddd7ca_b86b792c_20260604.png?v=b86b792c",
             "width": 1600,
             "height": 1200
           }
@@ -1455,7 +1303,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0c27562376_369eed30_20260603.png?v=369eed30",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0c27562376_369eed30_20260604.png?v=369eed30",
             "width": 1600,
             "height": 1200
           }
@@ -1531,7 +1379,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-95360e8d61_168bbf45_20260603.png?v=168bbf45",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-95360e8d61_168bbf45_20260604.png?v=168bbf45",
             "width": 1600,
             "height": 1200
           }
@@ -1607,7 +1455,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-72f2b1ab85_a6e56854_20260603.png?v=a6e56854",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-72f2b1ab85_a6e56854_20260604.png?v=a6e56854",
             "width": 1600,
             "height": 1200
           }
@@ -1683,7 +1531,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8ca3b1cf1a_460aae66_20260603.png?v=460aae66",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8ca3b1cf1a_460aae66_20260604.png?v=460aae66",
             "width": 1600,
             "height": 1200
           }
