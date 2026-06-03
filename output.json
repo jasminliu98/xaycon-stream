@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "xc-1f63b22331",
-          "name": "Portugal U19 vs Kazakhstan U19 | 16:00 03/06",
+          "id": "xc-a5e02edf27",
+          "name": "Philippines vs Guam | 18:30 03/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -28,82 +28,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1f63b22331",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-1f63b22331",
-                  "name": "Portugal U19 vs Kazakhstan U19",
-                  "streams": [
-                    {
-                      "id": "st-1f63b22331",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA U19 Championship - Qualification",
-            "team_a": "Portugal U19",
-            "team_b": "Kazakhstan U19",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/960px-Flag_of_Portugal.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/250px-Flag_of_Kazakhstan.svg.png",
-            "time": "16:00",
-            "date": "03/06",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1f63b22331_507bc518_20260603.png?v=507bc518",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-a5e02edf27",
-          "name": "Philippines vs Guam | 18:30 03/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -156,7 +80,7 @@
             "time": "18:30",
             "date": "03/06",
             "blv": "BLV A Cỏ",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
