@@ -245,8 +245,8 @@
           }
         },
         {
-          "id": "xc-9e1bf90a5a",
-          "name": "Iraq U20\t-\tPanama U20 | 19:00 04/06",
+          "id": "xc-1ef08460d5",
+          "name": "Iraq U20\t-\tPanama U20 | 21:00 04/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -260,15 +260,15 @@
           ],
           "sources": [
             {
-              "id": "src-9e1bf90a5a",
+              "id": "src-1ef08460d5",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-9e1bf90a5a",
+                  "id": "ct-1ef08460d5",
                   "name": "Iraq U20\t-\tPanama U20",
                   "streams": [
                     {
-                      "id": "st-9e1bf90a5a",
+                      "id": "st-1ef08460d5",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -305,7 +305,7 @@
             "team_b": "Panama",
             "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/250px-Flag_of_Iraq.svg.png",
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
-            "time": "19:00",
+            "time": "21:00",
             "date": "04/06",
             "blv": "BLV Rồng Đất",
             "is_live": true,
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-9e1bf90a5a_ace484e8_20260604.png?v=ace484e8",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1ef08460d5_ace484e8_20260604.png?v=ace484e8",
             "width": 1600,
             "height": 1200
           }
