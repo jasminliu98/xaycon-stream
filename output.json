@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-fe1ad1d525",
-          "name": "Maldives - Pakistan | 18:00 04/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fe1ad1d525",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-fe1ad1d525",
-                  "name": "Maldives - Pakistan",
-                  "streams": [
-                    {
-                      "id": "st-fe1ad1d525",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Maldives",
-            "team_b": "Pakistan",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png",
-            "time": "18:00",
-            "date": "04/06",
-            "blv": "BLV A Cỏ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-fe1ad1d525_8acd622f_20260604.png?v=8acd622f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-b76ef94969",
           "name": "Belgium U17 vs France U17 | 18:30 04/06",
