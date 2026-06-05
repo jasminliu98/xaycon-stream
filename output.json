@@ -17,7 +17,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "xc-a5bb5ab872",
+          "id": "xc-e85e21c007",
           "name": "Singapore vs China | 18:30 05/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -32,91 +32,15 @@
           ],
           "sources": [
             {
-              "id": "src-a5bb5ab872",
+              "id": "src-e85e21c007",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-a5bb5ab872",
+                  "id": "ct-e85e21c007",
                   "name": "Singapore vs China",
                   "streams": [
                     {
-                      "id": "st-a5bb5ab872",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Singapore",
-            "team_b": "China",
-            "logo_a": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1566.png",
-            "time": "18:30",
-            "date": "05/06",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a5bb5ab872_bf8b511a_20260605.png?v=bf8b511a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-e61fe5636c",
-          "name": "Thailand vs Kuwait | 19:30 05/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e61fe5636c",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-e61fe5636c",
-                  "name": "Thailand vs Kuwait",
-                  "streams": [
-                    {
-                      "id": "st-e61fe5636c",
+                      "id": "st-e85e21c007",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -149,11 +73,11 @@
           ],
           "org_metadata": {
             "league": "Friendlies",
-            "team_a": "Thailand",
-            "team_b": "Kuwait",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
-            "time": "19:30",
+            "team_a": "Singapore",
+            "team_b": "China",
+            "logo_a": "https://static.flashscore.com/res/image/data/A5Yr66oG-Qq89lvZJ.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1566.png",
+            "time": "18:30",
             "date": "05/06",
             "blv": "BLV Thợ Lặn",
             "is_live": false,
@@ -163,7 +87,83 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e61fe5636c_47f7a5f6_20260605.png?v=47f7a5f6",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e85e21c007_bf8b511a_20260605.png?v=bf8b511a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-d8d07587ad",
+          "name": "Thailand vs Kuwait | 19:30 05/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d8d07587ad",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-d8d07587ad",
+                  "name": "Thailand vs Kuwait",
+                  "streams": [
+                    {
+                      "id": "st-d8d07587ad",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Thailand",
+            "team_b": "Kuwait",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+            "time": "19:30",
+            "date": "05/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d8d07587ad_47f7a5f6_20260605.png?v=47f7a5f6",
             "width": 1600,
             "height": 1200
           }
@@ -245,8 +245,8 @@
           }
         },
         {
-          "id": "xc-c4da9245c7",
-          "name": "Tajikistan vs India | 22:00 05/06",
+          "id": "xc-1b88a392fa",
+          "name": "Bosnia-Herzegovina W vs Lithuania W | 22:00 05/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -260,15 +260,15 @@
           ],
           "sources": [
             {
-              "id": "src-c4da9245c7",
+              "id": "src-1b88a392fa",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-c4da9245c7",
-                  "name": "Tajikistan vs India",
+                  "id": "ct-1b88a392fa",
+                  "name": "Bosnia-Herzegovina W vs Lithuania W",
                   "streams": [
                     {
-                      "id": "st-c4da9245c7",
+                      "id": "st-1b88a392fa",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -300,11 +300,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Tajikistan",
-            "team_b": "India",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ZOuKHQ5RYYr0sWjUPYgOhdBesLxayJ6Omw&s",
-            "logo_b": "https://media.api-sports.io/football/teams/1537.png",
+            "league": "World Cup - Women - Qualification Europe",
+            "team_a": "Bosnia-Herzegovina W",
+            "team_b": "Lithuania W",
+            "logo_a": "https://media.api-sports.io/football/teams/14455.png",
+            "logo_b": "https://media.api-sports.io/football/teams/1764.png",
             "time": "22:00",
             "date": "05/06",
             "blv": "BLV Tam Mao",
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c4da9245c7_dba46b23_20260605.png?v=dba46b23",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1b88a392fa_1c4c7428_20260605.png?v=1c4c7428",
             "width": 1600,
             "height": 1200
           }
