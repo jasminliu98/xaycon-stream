@@ -17,82 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "xc-72ba21a524",
-          "name": "Indonesia vs Oman | 20:00 05/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-72ba21a524",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-72ba21a524",
-                  "name": "Indonesia vs Oman",
-                  "streams": [
-                    {
-                      "id": "st-72ba21a524",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bccd486b79",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Indonesia",
-            "team_b": "Oman",
-            "logo_a": "https://i.imgur.com/P4sNAMH.png",
-            "logo_b": "https://www.shutterstock.com/image-vector/oman-logo-flag-flat-illustration-260nw-424495153.jpg",
-            "time": "20:00",
-            "date": "05/06",
-            "blv": "BLV Tam Mao",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-72ba21a524_c32694f4_20260605.png?v=c32694f4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "xc-1b88a392fa",
           "name": "Bosnia-Herzegovina W vs Lithuania W | 22:00 05/06",
           "type": "single",
@@ -176,10 +100,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -232,7 +156,7 @@
             "time": "22:30",
             "date": "05/06",
             "blv": "BLV Thợ Lặn",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
