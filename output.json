@@ -1900,7 +1900,7 @@
             "team_a": "Portugal",
             "team_b": "Chile",
             "logo_a": "https://media.api-sports.io/football/teams/27.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/250px-Flag_of_Chile.svg.png",
             "time": "00:45",
             "date": "07/06",
             "blv": "BLV Thợ Lặn",
@@ -1911,7 +1911,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2cce82d332_71f92081_20260605.png?v=71f92081",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2cce82d332_46c3855c_20260605.png?v=46c3855c",
             "width": 1600,
             "height": 1200
           }
