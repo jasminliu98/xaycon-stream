@@ -851,6 +851,538 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "xc-faf95f2828",
+          "name": "Haiti vs Peru | 07:00 06/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-faf95f2828",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-faf95f2828",
+                  "name": "Haiti vs Peru",
+                  "streams": [
+                    {
+                      "id": "st-faf95f2828",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6de9170b",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Haiti",
+            "team_b": "Peru",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ2_HyiVFjqHwJ5TedGTKgPWuVtoFD5ErQQ&s",
+            "time": "07:00",
+            "date": "06/06",
+            "blv": "BLV Quan Vũ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-faf95f2828_41ed61a5_20260605.png?v=41ed61a5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-6b9615eedb",
+          "name": "FC Tokyo vs Cerezo Osaka | 12:00 06/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6b9615eedb",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-6b9615eedb",
+                  "name": "FC Tokyo vs Cerezo Osaka",
+                  "streams": [
+                    {
+                      "id": "st-6b9615eedb",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6de9170b",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J1 League",
+            "team_a": "FC Tokyo",
+            "team_b": "Cerezo Osaka",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png",
+            "time": "12:00",
+            "date": "06/06",
+            "blv": "BLV Quan Vũ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6b9615eedb_726c8653_20260605.png?v=726c8653",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-8c0abc8516",
+          "name": "Tokyo Verdy vs Gamba Osaka | 14:00 06/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8c0abc8516",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-8c0abc8516",
+                  "name": "Tokyo Verdy vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "st-8c0abc8516",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6de9170b",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J1 League",
+            "team_a": "Tokyo Verdy",
+            "team_b": "Gamba Osaka",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",
+            "time": "14:00",
+            "date": "06/06",
+            "blv": "BLV Quan Vũ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8c0abc8516_ce51a68c_20260605.png?v=ce51a68c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-d5528672d6",
+          "name": "Yokohama F. Marinos vs Shimizu S-pulse | 15:00 06/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d5528672d6",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-d5528672d6",
+                  "name": "Yokohama F. Marinos vs Shimizu S-pulse",
+                  "streams": [
+                    {
+                      "id": "st-d5528672d6",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J1 League",
+            "team_a": "Yokohama F. Marinos",
+            "team_b": "Shimizu S-pulse",
+            "logo_a": "https://media.api-sports.io/football/teams/296.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/4/4c/ShimizuS-Pulse.png",
+            "time": "15:00",
+            "date": "06/06",
+            "blv": "BLV Thợ Lặn",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d5528672d6_7cfb3252_20260605.png?v=7cfb3252",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-8d44f29928",
+          "name": "Kawasaki Frontale vs Sanfrecce Hiroshima | 17:00 06/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8d44f29928",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-8d44f29928",
+                  "name": "Kawasaki Frontale vs Sanfrecce Hiroshima",
+                  "streams": [
+                    {
+                      "id": "st-8d44f29928",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J1 League",
+            "team_a": "Kawasaki Frontale",
+            "team_b": "Sanfrecce Hiroshima",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/7/74/KawasakiFrontale.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png",
+            "time": "17:00",
+            "date": "06/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8d44f29928_f4c3aab1_20260605.png?v=f4c3aab1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-ea5187e01a",
+          "name": "Singapore W vs Cambodia W | 18:00 06/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea5187e01a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-ea5187e01a",
+                  "name": "Singapore W vs Cambodia W",
+                  "streams": [
+                    {
+                      "id": "st-ea5187e01a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221ed1ffcc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies Women",
+            "team_a": "Singapore W",
+            "team_b": "Cambodia W",
+            "logo_a": "https://media.api-sports.io/football/teams/17893.png",
+            "logo_b": "https://media.api-sports.io/football/teams/26046.png",
+            "time": "18:00",
+            "date": "06/06",
+            "blv": "BLV Rồng Đất",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ea5187e01a_02e4a332_20260605.png?v=02e4a332",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-1563a0f169",
+          "name": "Myanmar vs Guam | 18:30 06/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1563a0f169",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-1563a0f169",
+                  "name": "Myanmar vs Guam",
+                  "streams": [
+                    {
+                      "id": "st-1563a0f169",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19bab7f4de",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Myanmar",
+            "team_b": "Guam",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
+            "logo_b": "https://media.api-sports.io/football/teams/8119.png",
+            "time": "18:30",
+            "date": "06/06",
+            "blv": "BLV A Cỏ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1563a0f169_f7f530fb_20260605.png?v=f7f530fb",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
