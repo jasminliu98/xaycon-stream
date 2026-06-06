@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-6b9615eedb",
-          "name": "FC Tokyo vs Cerezo Osaka | 12:00 06/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6b9615eedb",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-6b9615eedb",
-                  "name": "FC Tokyo vs Cerezo Osaka",
-                  "streams": [
-                    {
-                      "id": "st-6b9615eedb",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ab6de9170b",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "J1 League",
-            "team_a": "FC Tokyo",
-            "team_b": "Cerezo Osaka",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/1/15/FC_Tokyo_Logo.svg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png",
-            "time": "12:00",
-            "date": "06/06",
-            "blv": "BLV Quan Vũ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6b9615eedb_726c8653_20260606.png?v=726c8653",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-8c0abc8516",
           "name": "Tokyo Verdy vs Gamba Osaka | 14:00 06/06",
