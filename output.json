@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -164,82 +164,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ea5187e01a_02e4a332_20260606.png?v=02e4a332",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-1563a0f169",
-          "name": "Myanmar vs Guam | 18:30 06/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1563a0f169",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-1563a0f169",
-                  "name": "Myanmar vs Guam",
-                  "streams": [
-                    {
-                      "id": "st-1563a0f169",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Myanmar",
-            "team_b": "Guam",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
-            "logo_b": "https://media.api-sports.io/football/teams/8119.png",
-            "time": "18:30",
-            "date": "06/06",
-            "blv": "BLV A Cỏ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1563a0f169_f7f530fb_20260606.png?v=f7f530fb",
             "width": 1600,
             "height": 1200
           }
