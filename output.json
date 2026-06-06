@@ -1520,7 +1520,7 @@
             "team_a": "Oman",
             "team_b": "Mozambique",
             "logo_a": "https://www.shutterstock.com/image-vector/oman-logo-flag-flat-illustration-260nw-424495153.jpg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/2560px-Flag_of_Mozambique.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
             "time": "20:00",
             "date": "07/06",
             "blv": "BLV Tam Mao",
@@ -1531,7 +1531,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c69859e357_66ed648d_20260606.png?v=66ed648d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c69859e357_6cd757b6_20260606.png?v=6cd757b6",
             "width": 1600,
             "height": 1200
           }
@@ -2064,6 +2064,82 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-084f97bdea_f4e9d3f7_20260606.png?v=f4e9d3f7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-55ba2b9de0",
+          "name": "Morocco vs Norway | 02:00 08/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-55ba2b9de0",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-55ba2b9de0",
+                  "name": "Morocco vs Norway",
+                  "streams": [
+                    {
+                      "id": "st-55ba2b9de0",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221ed1ffcc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Morocco",
+            "team_b": "Norway",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+            "time": "02:00",
+            "date": "08/06",
+            "blv": "BLV Rồng Đất",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-55ba2b9de0_d792f05e_20260606.png?v=d792f05e",
             "width": 1600,
             "height": 1200
           }
