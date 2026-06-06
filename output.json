@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-d5528672d6",
-          "name": "Yokohama F. Marinos vs Shimizu S-pulse | 15:00 06/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d5528672d6",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-d5528672d6",
-                  "name": "Yokohama F. Marinos vs Shimizu S-pulse",
-                  "streams": [
-                    {
-                      "id": "st-d5528672d6",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa5c7698a5",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "J1 League",
-            "team_a": "Yokohama F. Marinos",
-            "team_b": "Shimizu S-pulse",
-            "logo_a": "https://media.api-sports.io/football/teams/296.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/4/4c/ShimizuS-Pulse.png",
-            "time": "15:00",
-            "date": "06/06",
-            "blv": "BLV Thợ Lặn",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d5528672d6_7cfb3252_20260606.png?v=7cfb3252",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-8d44f29928",
           "name": "Kawasaki Frontale vs Sanfrecce Hiroshima | 17:00 06/06",
