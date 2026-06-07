@@ -625,6 +625,82 @@
           }
         },
         {
+          "id": "xc-db346d12c6",
+          "name": "Maldives vs Bangladesh U23 | 23:00 07/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-db346d12c6",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-db346d12c6",
+                  "name": "Maldives vs Bangladesh U23",
+                  "streams": [
+                    {
+                      "id": "st-db346d12c6",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221ed1ffcc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Friendlies",
+            "team_a": "Maldives",
+            "team_b": "Bangladesh U23",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+            "logo_b": "https://media.api-sports.io/football/teams/10929.png",
+            "time": "23:00",
+            "date": "07/06",
+            "blv": "BLV Rồng Đất",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-db346d12c6_c1eabd4f_20260607.png?v=c1eabd4f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "xc-7541547716",
           "name": "Denmark vs Ukraine | 23:30 07/06",
           "type": "single",
@@ -696,82 +772,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-7541547716_92b5f13e_20260607.png?v=92b5f13e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-a11eddba78",
-          "name": "Uganda vs Madagascar | 23:30 07/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a11eddba78",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-a11eddba78",
-                  "name": "Uganda vs Madagascar",
-                  "streams": [
-                    {
-                      "id": "st-a11eddba78",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-221ed1ffcc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Uganda",
-            "team_b": "Madagascar",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1490.png",
-            "time": "23:30",
-            "date": "07/06",
-            "blv": "BLV Rồng Đất",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a11eddba78_9f254802_20260607.png?v=9f254802",
             "width": 1600,
             "height": 1200
           }
