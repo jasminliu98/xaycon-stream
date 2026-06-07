@@ -93,82 +93,6 @@
           }
         },
         {
-          "id": "xc-7541547716",
-          "name": "Denmark vs Ukraine | 23:30 07/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7541547716",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-7541547716",
-                  "name": "Denmark vs Ukraine",
-                  "streams": [
-                    {
-                      "id": "st-7541547716",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bccd486b79",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Denmark",
-            "team_b": "Ukraine",
-            "logo_a": "https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
-            "time": "23:30",
-            "date": "07/06",
-            "blv": "BLV Tam Mao",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-7541547716_92b5f13e_20260608.png?v=92b5f13e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "xc-457d37ac37",
           "name": "Belgium U17 vs Italy U17 | 00:00 08/06",
           "type": "single",
@@ -252,10 +176,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -308,7 +232,7 @@
             "time": "01:45",
             "date": "08/06",
             "blv": "BLV Bịp Con",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
