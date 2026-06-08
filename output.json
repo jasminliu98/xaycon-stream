@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-9ff8381dcc",
-          "name": "Baghdad vs Karbala | 22:30 08/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9ff8381dcc",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-9ff8381dcc",
-                  "name": "Baghdad vs Karbala",
-                  "streams": [
-                    {
-                      "id": "st-9ff8381dcc",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Iraqi League",
-            "team_a": "Baghdad",
-            "team_b": "Karbala",
-            "logo_a": "https://media.api-sports.io/football/teams/11069.png",
-            "logo_b": "https://media.api-sports.io/football/teams/20464.png",
-            "time": "22:30",
-            "date": "08/06",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-9ff8381dcc_ec9c146a_20260609.png?v=ec9c146a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-220851bdb9",
           "name": "Wydad AC vs Olympique Safi | 23:00 08/06",
