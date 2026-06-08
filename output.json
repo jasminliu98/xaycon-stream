@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-0a1064a74b",
-          "name": "Netherlands vs Uzbekistan | 01:45 09/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0a1064a74b",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-0a1064a74b",
-                  "name": "Netherlands vs Uzbekistan",
-                  "streams": [
-                    {
-                      "id": "st-0a1064a74b",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Netherlands",
-            "team_b": "Uzbekistan",
-            "logo_a": "https://media.api-sports.io/football/teams/1118.png",
-            "logo_b": "https://cdn.pixabay.com/photo/2013/07/13/14/17/uzbekistan-162456_1280.png",
-            "time": "01:45",
-            "date": "09/06",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0a1064a74b_feafb7f9_20260609.png?v=feafb7f9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-c97d1e1ccd",
           "name": "France vs Northern Ireland | 02:10 09/06",
