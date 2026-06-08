@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-f22f8b6b79",
-          "name": "Belarus U21 vs Kazakhstan U21 | 22:00 08/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f22f8b6b79",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-f22f8b6b79",
-                  "name": "Belarus U21 vs Kazakhstan U21",
-                  "streams": [
-                    {
-                      "id": "st-f22f8b6b79",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bccd486b79",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Friendlies",
-            "team_a": "Belarus U21",
-            "team_b": "Kazakhstan U21",
-            "logo_a": "https://media.api-sports.io/football/teams/8182.png",
-            "logo_b": "https://media.api-sports.io/football/teams/8202.png",
-            "time": "22:00",
-            "date": "08/06",
-            "blv": "BLV Tam Mao",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f22f8b6b79_a1095b2c_20260608.png?v=a1095b2c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-9ff8381dcc",
           "name": "Baghdad vs Karbala | 22:30 08/06",
@@ -163,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-9ff8381dcc_ec9c146a_20260608.png?v=ec9c146a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-9ff8381dcc_ec9c146a_20260609.png?v=ec9c146a",
             "width": 1600,
             "height": 1200
           }
@@ -239,83 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-220851bdb9_666155cd_20260608.png?v=666155cd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-a696b85688",
-          "name": "Enppi vs AL Masry | 00:00 09/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a696b85688",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-a696b85688",
-                  "name": "Enppi vs AL Masry",
-                  "streams": [
-                    {
-                      "id": "st-a696b85688",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19bab7f4de",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "League Cup",
-            "team_a": "Enppi",
-            "team_b": "AL Masry",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/ENPPI_SC_Logo.svg/250px-ENPPI_SC_Logo.svg.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/rN8awRZA-K8vlWhPS.png",
-            "time": "00:00",
-            "date": "09/06",
-            "blv": "BLV A Cỏ",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a696b85688_9b93cff1_20260608.png?v=9b93cff1",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-220851bdb9_666155cd_20260609.png?v=666155cd",
             "width": 1600,
             "height": 1200
           }
@@ -391,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0a1064a74b_feafb7f9_20260608.png?v=feafb7f9",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0a1064a74b_feafb7f9_20260609.png?v=feafb7f9",
             "width": 1600,
             "height": 1200
           }
@@ -467,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c97d1e1ccd_2a9ecc7d_20260608.png?v=2a9ecc7d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c97d1e1ccd_2a9ecc7d_20260609.png?v=2a9ecc7d",
             "width": 1600,
             "height": 1200
           }
@@ -543,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b50da79aee_f0f72035_20260608.png?v=f0f72035",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b50da79aee_f0f72035_20260609.png?v=f0f72035",
             "width": 1600,
             "height": 1200
           }
@@ -619,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8448dc27e3_4ed601bd_20260608.png?v=4ed601bd",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8448dc27e3_4ed601bd_20260609.png?v=4ed601bd",
             "width": 1600,
             "height": 1200
           }
@@ -695,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2a5978c169_814b5f4e_20260608.png?v=814b5f4e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2a5978c169_814b5f4e_20260609.png?v=814b5f4e",
             "width": 1600,
             "height": 1200
           }
@@ -771,7 +619,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-137555514b_b3c5849d_20260608.png?v=b3c5849d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-137555514b_b3c5849d_20260609.png?v=b3c5849d",
             "width": 1600,
             "height": 1200
           }
@@ -847,7 +695,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-82ae8b3c48_35d64e59_20260608.png?v=35d64e59",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-82ae8b3c48_35d64e59_20260609.png?v=35d64e59",
             "width": 1600,
             "height": 1200
           }
@@ -923,7 +771,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f1db74a054_e98949c4_20260608.png?v=e98949c4",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f1db74a054_e98949c4_20260609.png?v=e98949c4",
             "width": 1600,
             "height": 1200
           }
@@ -999,7 +847,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-eedcd1a3c2_dba46b23_20260608.png?v=dba46b23",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-eedcd1a3c2_dba46b23_20260609.png?v=dba46b23",
             "width": 1600,
             "height": 1200
           }
@@ -1075,7 +923,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e8c59b1d44_9bd06a20_20260608.png?v=9bd06a20",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e8c59b1d44_9bd06a20_20260609.png?v=9bd06a20",
             "width": 1600,
             "height": 1200
           }
@@ -1151,7 +999,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1395709bff_3da469eb_20260608.png?v=3da469eb",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1395709bff_3da469eb_20260609.png?v=3da469eb",
             "width": 1600,
             "height": 1200
           }
@@ -1227,7 +1075,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-29839179b9_69526664_20260608.png?v=69526664",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-29839179b9_69526664_20260609.png?v=69526664",
             "width": 1600,
             "height": 1200
           }
@@ -1303,7 +1151,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-049162ba4f_23d3efbe_20260608.png?v=23d3efbe",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-049162ba4f_23d3efbe_20260609.png?v=23d3efbe",
             "width": 1600,
             "height": 1200
           }
@@ -1379,7 +1227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6390cc6cd2_690108d9_20260608.png?v=690108d9",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6390cc6cd2_690108d9_20260609.png?v=690108d9",
             "width": 1600,
             "height": 1200
           }
