@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-88c35e04b7",
-          "name": "Australia U19 vs Cambodia U19 | 20:00 09/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-88c35e04b7",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-88c35e04b7",
-                  "name": "Australia U19 vs Cambodia U19",
-                  "streams": [
-                    {
-                      "id": "st-88c35e04b7",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ab6de9170b",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASEAN Championship U19",
-            "team_a": "Australia U19",
-            "team_b": "Cambodia U19",
-            "logo_a": "https://media.api-sports.io/football/teams/22591.png",
-            "logo_b": "https://media.api-sports.io/football/teams/19148.png",
-            "time": "20:00",
-            "date": "09/06",
-            "blv": "BLV Quan Vũ",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-88c35e04b7_35d64e59_20260609.png?v=35d64e59",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-d53ce3a8a9",
           "name": "Indonesia vs Mozambique | 20:00 09/06",
