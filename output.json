@@ -380,7 +380,7 @@
             "team_a": "Argentina",
             "team_b": "Iceland",
             "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Iceland_national_football_team_logo.svg/180px-Iceland_national_football_team_logo.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
             "time": "08:00",
             "date": "10/06",
             "blv": "BLV Bịp Con",
@@ -391,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0491770508_13b27a3e_20260610.png?v=13b27a3e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0491770508_462dad01_20260610.png?v=462dad01",
             "width": 1600,
             "height": 1200
           }
@@ -456,7 +456,7 @@
             "team_a": "Argentina",
             "team_b": "Iceland",
             "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Iceland_national_football_team_logo.svg/180px-Iceland_national_football_team_logo.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
             "time": "08:00",
             "date": "10/06",
             "blv": "BLV Quan Vũ",
@@ -467,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-15ab1ae2ff_13b27a3e_20260610.png?v=13b27a3e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-15ab1ae2ff_462dad01_20260610.png?v=462dad01",
             "width": 1600,
             "height": 1200
           }
