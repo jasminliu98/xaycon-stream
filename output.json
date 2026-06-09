@@ -93,7 +93,7 @@
           }
         },
         {
-          "id": "xc-2a5978c169",
+          "id": "xc-b3eb4b88a3",
           "name": "China vs Thailand | 18:35 09/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -108,23 +108,23 @@
           ],
           "sources": [
             {
-              "id": "src-2a5978c169",
+              "id": "src-b3eb4b88a3",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-2a5978c169",
+                  "id": "ct-b3eb4b88a3",
                   "name": "China vs Thailand",
                   "streams": [
                     {
-                      "id": "st-2a5978c169",
+                      "id": "st-b3eb4b88a3",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-30319ba8f3",
+                          "id": "lnk-19bab7f4de",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -155,7 +155,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
             "time": "18:35",
             "date": "09/06",
-            "blv": "BLV Bịp Con",
+            "blv": "BLV A Cỏ",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -163,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2a5978c169_814b5f4e_20260609.png?v=814b5f4e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b3eb4b88a3_814b5f4e_20260609.png?v=814b5f4e",
             "width": 1600,
             "height": 1200
           }
@@ -321,7 +321,7 @@
           }
         },
         {
-          "id": "xc-f1db74a054",
+          "id": "xc-d53ce3a8a9",
           "name": "Indonesia vs Mozambique | 20:00 09/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -336,23 +336,23 @@
           ],
           "sources": [
             {
-              "id": "src-f1db74a054",
+              "id": "src-d53ce3a8a9",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-f1db74a054",
+                  "id": "ct-d53ce3a8a9",
                   "name": "Indonesia vs Mozambique",
                   "streams": [
                     {
-                      "id": "st-f1db74a054",
+                      "id": "st-d53ce3a8a9",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-19bab7f4de",
+                          "id": "lnk-30319ba8f3",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -383,7 +383,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
             "time": "20:00",
             "date": "09/06",
-            "blv": "BLV A Cỏ",
+            "blv": "BLV Bịp Con",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -391,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f1db74a054_e98949c4_20260609.png?v=e98949c4",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d53ce3a8a9_e98949c4_20260609.png?v=e98949c4",
             "width": 1600,
             "height": 1200
           }
