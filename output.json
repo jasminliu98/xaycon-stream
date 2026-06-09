@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-1395709bff",
-          "name": "Sweden W vs Italy W | 00:00 10/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1395709bff",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-1395709bff",
-                  "name": "Sweden W vs Italy W",
-                  "streams": [
-                    {
-                      "id": "st-1395709bff",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-221ed1ffcc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup - Women - Qualification Europe",
-            "team_a": "Sweden W",
-            "team_b": "Italy W",
-            "logo_a": "https://media.api-sports.io/football/teams/1739.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1748.png",
-            "time": "00:00",
-            "date": "10/06",
-            "blv": "BLV Rồng Đất",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1395709bff_3da469eb_20260610.png?v=3da469eb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-29839179b9",
           "name": "England W vs Ukraine W | 02:00 10/06",
