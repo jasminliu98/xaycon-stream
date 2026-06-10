@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -100,10 +100,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -156,7 +156,7 @@
             "time": "21:00",
             "date": "10/06",
             "blv": "BLV A Cỏ",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
@@ -835,7 +835,7 @@
             "league": "Serie B",
             "team_a": "Sport Recife",
             "team_b": "Athletic Club",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sport_Club_Recife.svg/1081px-Sport_Club_Recife.svg.png",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sport_Club_Recife.svg/250px-Sport_Club_Recife.svg.png",
             "logo_b": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
             "time": "07:00",
             "date": "11/06",
@@ -847,7 +847,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-79f0fd3ff2_ae16b07e_20260610.png?v=ae16b07e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-79f0fd3ff2_1c50a4dd_20260610.png?v=1c50a4dd",
             "width": 1600,
             "height": 1200
           }
@@ -1304,6 +1304,614 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3faa7292fe_7913d68b_20260610.png?v=7913d68b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-2a1525184a",
+          "name": "Venezuela U20 vs Japan U20 | 18:30 11/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2a1525184a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-2a1525184a",
+                  "name": "Venezuela U20 vs Japan U20",
+                  "streams": [
+                    {
+                      "id": "st-2a1525184a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221ed1ffcc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Tournoi Maurice Revello",
+            "team_a": "Venezuela U20",
+            "team_b": "Japan U20",
+            "logo_a": "https://media.api-sports.io/football/teams/10314.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10290.png",
+            "time": "18:30",
+            "date": "11/06",
+            "blv": "BLV Rồng Đất",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2a1525184a_9eecf744_20260610.png?v=9eecf744",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-f9a9acc55a",
+          "name": "Aktobe Jas vs Akademiya Ontustik | 20:00 11/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f9a9acc55a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-f9a9acc55a",
+                  "name": "Aktobe Jas vs Akademiya Ontustik",
+                  "streams": [
+                    {
+                      "id": "st-f9a9acc55a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "1. Division",
+            "team_a": "Aktobe Jas",
+            "team_b": "Akademiya Ontustik",
+            "logo_a": "https://media.api-sports.io/football/teams/4546.png",
+            "logo_b": "https://media.api-sports.io/football/teams/4545.png",
+            "time": "20:00",
+            "date": "11/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f9a9acc55a_05b0411e_20260610.png?v=05b0411e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-232a4c76d5",
+          "name": "U19 Indonesia - U19 Australia | 20:15 11/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-232a4c76d5",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-232a4c76d5",
+                  "name": "U19 Indonesia - U19 Australia",
+                  "streams": [
+                    {
+                      "id": "st-232a4c76d5",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Championship U19",
+            "team_a": "Indonesia U19",
+            "team_b": "Australia U19",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+            "logo_b": "https://media.api-sports.io/football/teams/22591.png",
+            "time": "20:15",
+            "date": "11/06",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-232a4c76d5_b677849c_20260610.png?v=b677849c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-abe85937ac",
+          "name": "Portugal U20 vs Canada U20 | 00:00 12/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-abe85937ac",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-abe85937ac",
+                  "name": "Portugal U20 vs Canada U20",
+                  "streams": [
+                    {
+                      "id": "st-abe85937ac",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221ed1ffcc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Tournoi Maurice Revello",
+            "team_a": "Portugal U20",
+            "team_b": "Canada U20",
+            "logo_a": "https://media.api-sports.io/football/teams/10299.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10992.png",
+            "time": "00:00",
+            "date": "12/06",
+            "blv": "BLV Rồng Đất",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-abe85937ac_4293724d_20260610.png?v=4293724d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-97cd046f29",
+          "name": "Mexico vs South Africa | 02:00 12/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-97cd046f29",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-97cd046f29",
+                  "name": "Mexico vs South Africa",
+                  "streams": [
+                    {
+                      "id": "st-97cd046f29",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Mexico",
+            "team_b": "South Africa",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "time": "02:00",
+            "date": "12/06",
+            "blv": "BLV Thợ Lặn",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-97cd046f29_0e572973_20260610.png?v=0e572973",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-0f9e8ae267",
+          "name": "Mexico vs South Africa | 02:00 12/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0f9e8ae267",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-0f9e8ae267",
+                  "name": "Mexico vs South Africa",
+                  "streams": [
+                    {
+                      "id": "st-0f9e8ae267",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Mexico",
+            "team_b": "South Africa",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "time": "02:00",
+            "date": "12/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0f9e8ae267_0e572973_20260610.png?v=0e572973",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-a3ead3803d",
+          "name": "Mexico vs South Africa | 02:00 12/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a3ead3803d",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-a3ead3803d",
+                  "name": "Mexico vs South Africa",
+                  "streams": [
+                    {
+                      "id": "st-a3ead3803d",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Mexico",
+            "team_b": "South Africa",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "time": "02:00",
+            "date": "12/06",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a3ead3803d_0e572973_20260610.png?v=0e572973",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-d6c7e9b2d0",
+          "name": "Mexico vs South Africa | 02:00 12/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d6c7e9b2d0",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-d6c7e9b2d0",
+                  "name": "Mexico vs South Africa",
+                  "streams": [
+                    {
+                      "id": "st-d6c7e9b2d0",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221ed1ffcc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Mexico",
+            "team_b": "South Africa",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "time": "02:00",
+            "date": "12/06",
+            "blv": "BLV Rồng Đất",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d6c7e9b2d0_0e572973_20260610.png?v=0e572973",
             "width": 1600,
             "height": 1200
           }
