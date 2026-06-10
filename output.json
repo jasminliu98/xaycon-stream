@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-c6c0381e78",
-          "name": "SJK vs Inter Turku | 22:00 10/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c6c0381e78",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-c6c0381e78",
-                  "name": "SJK vs Inter Turku",
-                  "streams": [
-                    {
-                      "id": "st-c6c0381e78",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-221ed1ffcc",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Suomen Cup",
-            "team_a": "SJK",
-            "team_b": "Inter Turku",
-            "logo_a": "https://media.api-sports.io/football/teams/689.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1164.png",
-            "time": "22:00",
-            "date": "10/06",
-            "blv": "BLV Rồng Đất",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c6c0381e78_ce6227a6_20260610.png?v=ce6227a6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-f7287d3592",
           "name": "Ilves vs Lahti | 22:00 10/06",
@@ -169,7 +93,7 @@
           }
         },
         {
-          "id": "xc-5783a4a916",
+          "id": "xc-edaf1158a5",
           "name": "Colombia U19 vs Tunisia U23 | 00:00 11/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -184,23 +108,23 @@
           ],
           "sources": [
             {
-              "id": "src-5783a4a916",
+              "id": "src-edaf1158a5",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-5783a4a916",
+                  "id": "ct-edaf1158a5",
                   "name": "Colombia U19 vs Tunisia U23",
                   "streams": [
                     {
-                      "id": "st-5783a4a916",
+                      "id": "st-edaf1158a5",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-19bab7f4de",
+                          "id": "lnk-30319ba8f3",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -231,7 +155,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/20562.png",
             "time": "00:00",
             "date": "11/06",
-            "blv": "BLV A Cỏ",
+            "blv": "BLV Bịp Con",
             "is_live": true,
             "sport_slug": "bong-da"
           },
@@ -239,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5783a4a916_782708c5_20260610.png?v=782708c5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-edaf1158a5_782708c5_20260610.png?v=782708c5",
             "width": 1600,
             "height": 1200
           }
