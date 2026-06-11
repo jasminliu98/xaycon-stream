@@ -93,8 +93,8 @@
           }
         },
         {
-          "id": "xc-24570e583d",
-          "name": "Lễ Khai Mạc World Cup 2026 | 00:30 12/06",
+          "id": "xc-0f9e8ae267",
+          "name": "Mexico vs South Africa | 02:00 12/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -108,15 +108,15 @@
           ],
           "sources": [
             {
-              "id": "src-24570e583d",
+              "id": "src-0f9e8ae267",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-24570e583d",
-                  "name": "Lễ Khai Mạc World Cup 2026",
+                  "id": "ct-0f9e8ae267",
+                  "name": "Mexico vs South Africa",
                   "streams": [
                     {
-                      "id": "st-24570e583d",
+                      "id": "st-0f9e8ae267",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -149,11 +149,11 @@
           ],
           "org_metadata": {
             "league": "World Cup",
-            "team_a": "Lễ Khai Mạc World Cup 2026",
-            "team_b": "Lễ Khai Mạc World Cup 2026",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/vi/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-            "time": "00:30",
+            "team_a": "Mexico",
+            "team_b": "South Africa",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "time": "02:00",
             "date": "12/06",
             "blv": "BLV Bịp Con",
             "is_live": true,
@@ -163,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-24570e583d_2052b42b_20260612.png?v=2052b42b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0f9e8ae267_0e572973_20260612.png?v=0e572973",
             "width": 1600,
             "height": 1200
           }
@@ -240,82 +240,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-97cd046f29_0e572973_20260612.png?v=0e572973",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-0f9e8ae267",
-          "name": "Mexico vs South Africa | 02:00 12/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0f9e8ae267",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-0f9e8ae267",
-                  "name": "Mexico vs South Africa",
-                  "streams": [
-                    {
-                      "id": "st-0f9e8ae267",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Mexico",
-            "team_b": "South Africa",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-            "time": "02:00",
-            "date": "12/06",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0f9e8ae267_0e572973_20260612.png?v=0e572973",
             "width": 1600,
             "height": 1200
           }
