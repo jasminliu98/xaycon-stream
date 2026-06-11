@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -93,6 +93,82 @@
           }
         },
         {
+          "id": "xc-97cd046f29",
+          "name": "Mexico vs South Africa | 02:00 12/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-97cd046f29",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-97cd046f29",
+                  "name": "Mexico vs South Africa",
+                  "streams": [
+                    {
+                      "id": "st-97cd046f29",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Mexico",
+            "team_b": "South Africa",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "time": "02:00",
+            "date": "12/06",
+            "blv": "BLV Thợ Lặn",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-97cd046f29_0e572973_20260612.png?v=0e572973",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "xc-0f9e8ae267",
           "name": "Mexico vs South Africa | 02:00 12/06",
           "type": "single",
@@ -169,82 +245,6 @@
           }
         },
         {
-          "id": "xc-97cd046f29",
-          "name": "Mexico vs South Africa | 02:00 12/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-97cd046f29",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-97cd046f29",
-                  "name": "Mexico vs South Africa",
-                  "streams": [
-                    {
-                      "id": "st-97cd046f29",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa5c7698a5",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Mexico",
-            "team_b": "South Africa",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-            "time": "02:00",
-            "date": "12/06",
-            "blv": "BLV Thợ Lặn",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-97cd046f29_0e572973_20260612.png?v=0e572973",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "xc-a3ead3803d",
           "name": "Mexico vs South Africa | 02:00 12/06",
           "type": "single",
@@ -252,10 +252,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -308,7 +308,7 @@
             "time": "02:00",
             "date": "12/06",
             "blv": "BLV Tam Mao",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
@@ -328,10 +328,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -384,7 +384,7 @@
             "time": "02:00",
             "date": "12/06",
             "blv": "BLV Rồng Đất",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
