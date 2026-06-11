@@ -245,82 +245,6 @@
           }
         },
         {
-          "id": "xc-f9a9acc55a",
-          "name": "Aktobe Jas vs Akademiya Ontustik | 20:00 11/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f9a9acc55a",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-f9a9acc55a",
-                  "name": "Aktobe Jas vs Akademiya Ontustik",
-                  "streams": [
-                    {
-                      "id": "st-f9a9acc55a",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "1. Division",
-            "team_a": "Aktobe Jas",
-            "team_b": "Akademiya Ontustik",
-            "logo_a": "https://media.api-sports.io/football/teams/4546.png",
-            "logo_b": "https://media.api-sports.io/football/teams/4545.png",
-            "time": "20:00",
-            "date": "11/06",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f9a9acc55a_05b0411e_20260611.png?v=05b0411e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "xc-232a4c76d5",
           "name": "U19 Indonesia - U19 Australia | 20:15 11/06",
           "type": "single",
@@ -392,6 +316,82 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-232a4c76d5_b677849c_20260611.png?v=b677849c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-358517530a",
+          "name": "Ordabasy - Altay FK | 22:00 11/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-358517530a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-358517530a",
+                  "name": "Ordabasy - Altay FK",
+                  "streams": [
+                    {
+                      "id": "st-358517530a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Kazakhstan Cup",
+            "team_a": "Ordabasy",
+            "team_b": "Altay",
+            "logo_a": "https://media.api-sports.io/football/teams/692.png",
+            "logo_b": "https://media.api-sports.io/football/teams/4544.png",
+            "time": "22:00",
+            "date": "11/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-358517530a_03fd8b60_20260611.png?v=03fd8b60",
             "width": 1600,
             "height": 1200
           }
