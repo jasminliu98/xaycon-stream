@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-cb395a4518",
-          "name": "Mariehamn vs Gnistan | 23:00 13/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cb395a4518",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-cb395a4518",
-                  "name": "Mariehamn vs Gnistan",
-                  "streams": [
-                    {
-                      "id": "st-cb395a4518",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bccd486b79",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Veikkausliiga",
-            "team_a": "Mariehamn",
-            "team_b": "Gnistan",
-            "logo_a": "https://media.api-sports.io/football/teams/587.png",
-            "logo_b": "https://media.api-sports.io/football/teams/2082.png",
-            "time": "23:00",
-            "date": "13/06",
-            "blv": "BLV Tam Mao",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-cb395a4518_a4d5f503_20260614.png?v=a4d5f503",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-958cb197e9",
           "name": "Qatar vs Switzerland | 02:00 14/06",
