@@ -169,7 +169,7 @@
           }
         },
         {
-          "id": "xc-46db6e3e9d",
+          "id": "xc-926d8b881b",
           "name": "Phu Dong vs Ho Chi Minh | 18:00 14/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -184,23 +184,23 @@
           ],
           "sources": [
             {
-              "id": "src-46db6e3e9d",
+              "id": "src-926d8b881b",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-46db6e3e9d",
+                  "id": "ct-926d8b881b",
                   "name": "Phu Dong vs Ho Chi Minh",
                   "streams": [
                     {
-                      "id": "st-46db6e3e9d",
+                      "id": "st-926d8b881b",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-30319ba8f3",
+                          "id": "lnk-19bab7f4de",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -231,7 +231,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
             "time": "18:00",
             "date": "14/06",
-            "blv": "BLV Bịp Con",
+            "blv": "BLV A Cỏ",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -239,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-46db6e3e9d_778266b8_20260614.png?v=778266b8",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-926d8b881b_778266b8_20260614.png?v=778266b8",
             "width": 1600,
             "height": 1200
           }
@@ -321,7 +321,7 @@
           }
         },
         {
-          "id": "xc-23fa6e057d",
+          "id": "xc-fd12d166a8",
           "name": "Ljungskile SK vs Ostersunds FK | 20:00 14/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -336,23 +336,23 @@
           ],
           "sources": [
             {
-              "id": "src-23fa6e057d",
+              "id": "src-fd12d166a8",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-23fa6e057d",
+                  "id": "ct-fd12d166a8",
                   "name": "Ljungskile SK vs Ostersunds FK",
                   "streams": [
                     {
-                      "id": "st-23fa6e057d",
+                      "id": "st-fd12d166a8",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-19bab7f4de",
+                          "id": "lnk-30319ba8f3",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -383,7 +383,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/376.png",
             "time": "20:00",
             "date": "14/06",
-            "blv": "BLV A Cỏ",
+            "blv": "BLV Bịp Con",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -391,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-23fa6e057d_8f2bbbf2_20260614.png?v=8f2bbbf2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-fd12d166a8_8f2bbbf2_20260614.png?v=8f2bbbf2",
             "width": 1600,
             "height": 1200
           }
