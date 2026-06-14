@@ -245,8 +245,8 @@
           }
         },
         {
-          "id": "xc-c0372aa949",
-          "name": "Sandviken vs IK brage | 22:00 14/06",
+          "id": "xc-df4f9c56b8",
+          "name": "FC Dnepr Mogilev vs Arsenal | 22:00 14/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -260,15 +260,15 @@
           ],
           "sources": [
             {
-              "id": "src-c0372aa949",
+              "id": "src-df4f9c56b8",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-c0372aa949",
-                  "name": "Sandviken vs IK brage",
+                  "id": "ct-df4f9c56b8",
+                  "name": "FC Dnepr Mogilev vs Arsenal",
                   "streams": [
                     {
-                      "id": "st-c0372aa949",
+                      "id": "st-df4f9c56b8",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -300,11 +300,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Superettan",
-            "team_a": "Sandviken",
-            "team_b": "IK brage",
-            "logo_a": "https://media.api-sports.io/football/teams/6697.png",
-            "logo_b": "https://media.api-sports.io/football/teams/2175.png",
+            "league": "Premier League",
+            "team_a": "FC Dnepr Mogilev",
+            "team_b": "Arsenal Dzyarzhynsk",
+            "logo_a": "https://media.api-sports.io/football/teams/384.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/2/20/FC_Arsenal_Dzerzhinsk.png",
             "time": "22:00",
             "date": "14/06",
             "blv": "BLV Tam Mao",
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c0372aa949_860a7813_20260614.png?v=860a7813",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-df4f9c56b8_bc2b3828_20260614.png?v=bc2b3828",
             "width": 1600,
             "height": 1200
           }
