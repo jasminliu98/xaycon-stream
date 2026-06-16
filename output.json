@@ -1368,7 +1368,7 @@
             "team_a": "Gyeongju W",
             "team_b": "Hwacheon KSPO W",
             "logo_a": "https://upload.wikimedia.org/wikipedia/en/e/e1/Daejeon_Hydro_%26_Nuclear_Power_FC_logo.png",
-            "logo_b": "https://media.api-sports.io/football/teams/14376.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/8/8d/KSPO_WFC.png",
             "time": "17:00",
             "date": "17/06",
             "blv": "BLV Thợ Lặn",
@@ -1379,7 +1379,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3f4fe14c79_14900ab1_20260616.png?v=14900ab1",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3f4fe14c79_04c4c985_20260616.png?v=04c4c985",
             "width": 1600,
             "height": 1200
           }
