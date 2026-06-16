@@ -853,7 +853,7 @@
           }
         },
         {
-          "id": "xc-14c8a2072d",
+          "id": "xc-0fcae1c878",
           "name": "Molodechno-DYuSSh 4 vs Bate Borisov | 20:00 17/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -868,91 +868,15 @@
           ],
           "sources": [
             {
-              "id": "src-14c8a2072d",
+              "id": "src-0fcae1c878",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-14c8a2072d",
+                  "id": "ct-0fcae1c878",
                   "name": "Molodechno-DYuSSh 4 vs Bate Borisov",
                   "streams": [
                     {
-                      "id": "st-14c8a2072d",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Coppa",
-            "team_a": "Molodechno-DYuSSh 4",
-            "team_b": "Bate Borisov",
-            "logo_a": "https://media.api-sports.io/football/teams/7798.png",
-            "logo_b": "https://media.api-sports.io/football/teams/388.png",
-            "time": "20:00",
-            "date": "17/06",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-14c8a2072d_7aef067e_20260617.png?v=7aef067e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-67b91084e0",
-          "name": "Turku PS vs KuPS | 22:00 17/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-67b91084e0",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-67b91084e0",
-                  "name": "Turku PS vs KuPS",
-                  "streams": [
-                    {
-                      "id": "st-67b91084e0",
+                      "id": "st-0fcae1c878",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -984,12 +908,12 @@
             }
           ],
           "org_metadata": {
-            "league": "Veikkausliiga",
-            "team_a": "Turku PS",
-            "team_b": "KuPS",
-            "logo_a": "https://media.api-sports.io/football/teams/1168.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
-            "time": "22:00",
+            "league": "Coppa",
+            "team_a": "Molodechno-DYuSSh 4",
+            "team_b": "Bate Borisov",
+            "logo_a": "https://media.api-sports.io/football/teams/7798.png",
+            "logo_b": "https://media.api-sports.io/football/teams/388.png",
+            "time": "20:00",
             "date": "17/06",
             "blv": "BLV Rồng Đất",
             "is_live": false,
@@ -999,7 +923,83 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-67b91084e0_af1328c3_20260617.png?v=af1328c3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0fcae1c878_7aef067e_20260617.png?v=7aef067e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-30638132dc",
+          "name": "Turku PS vs KuPS | 22:00 17/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30638132dc",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-30638132dc",
+                  "name": "Turku PS vs KuPS",
+                  "streams": [
+                    {
+                      "id": "st-30638132dc",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Veikkausliiga",
+            "team_a": "Turku PS",
+            "team_b": "KuPS",
+            "logo_a": "https://media.api-sports.io/football/teams/1168.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg",
+            "time": "22:00",
+            "date": "17/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-30638132dc_af1328c3_20260617.png?v=af1328c3",
             "width": 1600,
             "height": 1200
           }
