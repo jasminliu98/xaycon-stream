@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -100,10 +100,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -156,7 +156,7 @@
             "time": "00:00",
             "date": "18/06",
             "blv": "BLV Tam Mao",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
@@ -245,7 +245,7 @@
           }
         },
         {
-          "id": "xc-0b068c67f6",
+          "id": "xc-49f2112673",
           "name": "Portugal vs Congo DR | 00:00 18/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -260,23 +260,23 @@
           ],
           "sources": [
             {
-              "id": "src-0b068c67f6",
+              "id": "src-49f2112673",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-0b068c67f6",
+                  "id": "ct-49f2112673",
                   "name": "Portugal vs Congo DR",
                   "streams": [
                     {
-                      "id": "st-0b068c67f6",
+                      "id": "st-49f2112673",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-221ed1ffcc",
+                          "id": "lnk-30319ba8f3",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -307,7 +307,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
             "time": "00:00",
             "date": "18/06",
-            "blv": "BLV Rồng Đất",
+            "blv": "BLV Bịp Con",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -315,13 +315,13 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0b068c67f6_422ced7e_20260617.png?v=422ced7e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-49f2112673_422ced7e_20260617.png?v=422ced7e",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "xc-06dbe4f2f4",
+          "id": "xc-987ae60672",
           "name": "England vs Croatia | 03:00 18/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -336,23 +336,23 @@
           ],
           "sources": [
             {
-              "id": "src-06dbe4f2f4",
+              "id": "src-987ae60672",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-06dbe4f2f4",
+                  "id": "ct-987ae60672",
                   "name": "England vs Croatia",
                   "streams": [
                     {
-                      "id": "st-06dbe4f2f4",
+                      "id": "st-987ae60672",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-221ed1ffcc",
+                          "id": "lnk-30319ba8f3",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -383,7 +383,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/3840px-Flag_of_Croatia.svg.png",
             "time": "03:00",
             "date": "18/06",
-            "blv": "BLV Rồng Đất",
+            "blv": "BLV Bịp Con",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -391,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-06dbe4f2f4_d39ec60e_20260617.png?v=d39ec60e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-987ae60672_d39ec60e_20260617.png?v=d39ec60e",
             "width": 1600,
             "height": 1200
           }
