@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "xc-f609754d19",
-          "name": "Meshakhte vs Gagra | 20:30 18/06",
+          "id": "xc-47ec336337",
+          "name": "Czechia vs South Africa | 23:00 18/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,15 +32,15 @@
           ],
           "sources": [
             {
-              "id": "src-f609754d19",
+              "id": "src-47ec336337",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-f609754d19",
-                  "name": "Meshakhte vs Gagra",
+                  "id": "ct-47ec336337",
+                  "name": "Czechia vs South Africa",
                   "streams": [
                     {
-                      "id": "st-f609754d19",
+                      "id": "st-47ec336337",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -72,12 +72,12 @@
             }
           ],
           "org_metadata": {
-            "league": "Erovnuli Liga",
-            "team_a": "Meshakhte",
-            "team_b": "Gagra",
-            "logo_a": "https://media.api-sports.io/football/teams/13847.png",
-            "logo_b": "https://media.api-sports.io/football/teams/3505.png",
-            "time": "20:30",
+            "league": "World Cup",
+            "team_a": "Czech Republic",
+            "team_b": "South Africa",
+            "logo_a": "https://media.api-sports.io/football/teams/770.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+            "time": "23:00",
             "date": "18/06",
             "blv": "BLV Tam Mao",
             "is_live": true,
@@ -87,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f609754d19_d11d2ee7_20260618.png?v=d11d2ee7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-47ec336337_d08dba67_20260618.png?v=d08dba67",
             "width": 1600,
             "height": 1200
           }
@@ -240,82 +240,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a3d11c3085_d08dba67_20260618.png?v=d08dba67",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-47ec336337",
-          "name": "Czechia vs South Africa | 23:00 18/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-47ec336337",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-47ec336337",
-                  "name": "Czechia vs South Africa",
-                  "streams": [
-                    {
-                      "id": "st-47ec336337",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bccd486b79",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Czech Republic",
-            "team_b": "South Africa",
-            "logo_a": "https://media.api-sports.io/football/teams/770.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-            "time": "23:00",
-            "date": "18/06",
-            "blv": "BLV Tam Mao",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-47ec336337_d08dba67_20260618.png?v=d08dba67",
             "width": 1600,
             "height": 1200
           }
