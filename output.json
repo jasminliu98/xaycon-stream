@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -93,6 +93,158 @@
           }
         },
         {
+          "id": "xc-00f8936b0a",
+          "name": "Netherlands vs Sweden | 00:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-00f8936b0a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-00f8936b0a",
+                  "name": "Netherlands vs Sweden",
+                  "streams": [
+                    {
+                      "id": "st-00f8936b0a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Netherlands",
+            "team_b": "Sweden",
+            "logo_a": "https://media.api-sports.io/football/teams/1118.png",
+            "logo_b": "https://media.api-sports.io/football/teams/5.png",
+            "time": "00:00",
+            "date": "21/06",
+            "blv": "BLV Tam Mao",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-00f8936b0a_cdd78823_20260620.png?v=cdd78823",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-622ae74275",
+          "name": "Netherlands vs Sweden | 00:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-622ae74275",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-622ae74275",
+                  "name": "Netherlands vs Sweden",
+                  "streams": [
+                    {
+                      "id": "st-622ae74275",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Netherlands",
+            "team_b": "Sweden",
+            "logo_a": "https://media.api-sports.io/football/teams/1118.png",
+            "logo_b": "https://media.api-sports.io/football/teams/5.png",
+            "time": "00:00",
+            "date": "21/06",
+            "blv": "BLV Bịp Con",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-622ae74275_cdd78823_20260620.png?v=cdd78823",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "xc-d4a63dbd03",
           "name": "Netherlands vs Sweden | 00:00 21/06",
           "type": "single",
@@ -164,158 +316,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d4a63dbd03_cdd78823_20260620.png?v=cdd78823",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-00f8936b0a",
-          "name": "Netherlands vs Sweden | 00:00 21/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-00f8936b0a",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-00f8936b0a",
-                  "name": "Netherlands vs Sweden",
-                  "streams": [
-                    {
-                      "id": "st-00f8936b0a",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bccd486b79",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Netherlands",
-            "team_b": "Sweden",
-            "logo_a": "https://media.api-sports.io/football/teams/1118.png",
-            "logo_b": "https://media.api-sports.io/football/teams/5.png",
-            "time": "00:00",
-            "date": "21/06",
-            "blv": "BLV Tam Mao",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-00f8936b0a_cdd78823_20260620.png?v=cdd78823",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-622ae74275",
-          "name": "Netherlands vs Sweden | 00:00 21/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-622ae74275",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-622ae74275",
-                  "name": "Netherlands vs Sweden",
-                  "streams": [
-                    {
-                      "id": "st-622ae74275",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Netherlands",
-            "team_b": "Sweden",
-            "logo_a": "https://media.api-sports.io/football/teams/1118.png",
-            "logo_b": "https://media.api-sports.io/football/teams/5.png",
-            "time": "00:00",
-            "date": "21/06",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-622ae74275_cdd78823_20260620.png?v=cdd78823",
             "width": 1600,
             "height": 1200
           }
