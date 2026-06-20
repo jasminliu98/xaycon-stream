@@ -1003,6 +1003,842 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "xc-b3bddea3ac",
+          "name": "Super Nova vs Auda | 18:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b3bddea3ac",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-b3bddea3ac",
+                  "name": "Super Nova vs Auda",
+                  "streams": [
+                    {
+                      "id": "st-b3bddea3ac",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Virsliga",
+            "team_a": "Super Nova",
+            "team_b": "Auda",
+            "logo_a": "https://media.api-sports.io/football/teams/4143.png",
+            "logo_b": "https://media.api-sports.io/football/teams/4135.png",
+            "time": "18:00",
+            "date": "21/06",
+            "blv": "BLV Thợ Lặn",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b3bddea3ac_4e109c6d_20260620.png?v=4e109c6d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-72c0f0b188",
+          "name": "Suzhou Dongwu vs Yunnan Yukun | 18:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-72c0f0b188",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-72c0f0b188",
+                  "name": "Suzhou Dongwu vs Yunnan Yukun",
+                  "streams": [
+                    {
+                      "id": "st-72c0f0b188",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FA Cup",
+            "team_a": "Suzhou Dongwu",
+            "team_b": "Yunnan Yukun",
+            "logo_a": "https://media.api-sports.io/football/teams/5688.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Yunnan_Yukun_F.C.svg/960px-Yunnan_Yukun_F.C.svg.png",
+            "time": "18:00",
+            "date": "21/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-72c0f0b188_a5212399_20260620.png?v=a5212399",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-7785ae7218",
+          "name": "Okzhetpes vs FK Tobol Kostanay | 19:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7785ae7218",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-7785ae7218",
+                  "name": "Okzhetpes vs FK Tobol Kostanay",
+                  "streams": [
+                    {
+                      "id": "st-7785ae7218",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Okzhetpes",
+            "team_b": "FK Tobol Kostanay",
+            "logo_a": "https://media.api-sports.io/football/teams/4558.png",
+            "logo_b": "https://media.api-sports.io/football/teams/2259.png",
+            "time": "19:00",
+            "date": "21/06",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-7785ae7218_c0eeb11c_20260620.png?v=c0eeb11c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-1c6838c4b6",
+          "name": "IK brage vs IFK Varnamo | 20:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1c6838c4b6",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-1c6838c4b6",
+                  "name": "IK brage vs IFK Varnamo",
+                  "streams": [
+                    {
+                      "id": "st-1c6838c4b6",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221ed1ffcc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Superettan",
+            "team_a": "IK brage",
+            "team_b": "IFK Varnamo",
+            "logo_a": "https://media.api-sports.io/football/teams/2175.png",
+            "logo_b": "https://media.api-sports.io/football/teams/2163.png",
+            "time": "20:00",
+            "date": "21/06",
+            "blv": "BLV Rồng Đất",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1c6838c4b6_a9e9ec95_20260620.png?v=a9e9ec95",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-3dda44cd12",
+          "name": "Yelimay Semey vs Atyrau | 21:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3dda44cd12",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-3dda44cd12",
+                  "name": "Yelimay Semey vs Atyrau",
+                  "streams": [
+                    {
+                      "id": "st-3dda44cd12",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6de9170b",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Yelimay Semey",
+            "team_b": "Atyrau",
+            "logo_a": "https://media.api-sports.io/football/teams/21011.png",
+            "logo_b": "https://media.api-sports.io/football/teams/4564.png",
+            "time": "21:00",
+            "date": "21/06",
+            "blv": "BLV Quan Vũ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3dda44cd12_e1bab24d_20260620.png?v=e1bab24d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-1320dadedf",
+          "name": "Spain vs Saudi Arabia | 23:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1320dadedf",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-1320dadedf",
+                  "name": "Spain vs Saudi Arabia",
+                  "streams": [
+                    {
+                      "id": "st-1320dadedf",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Spain",
+            "team_b": "Saudi Arabia",
+            "logo_a": "https://media.api-sports.io/football/teams/9.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+            "time": "23:00",
+            "date": "21/06",
+            "blv": "BLV Thợ Lặn",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1320dadedf_f729f8f9_20260620.png?v=f729f8f9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-e61b7a0693",
+          "name": "Spain vs Saudi Arabia | 23:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e61b7a0693",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-e61b7a0693",
+                  "name": "Spain vs Saudi Arabia",
+                  "streams": [
+                    {
+                      "id": "st-e61b7a0693",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Spain",
+            "team_b": "Saudi Arabia",
+            "logo_a": "https://media.api-sports.io/football/teams/9.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+            "time": "23:00",
+            "date": "21/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e61b7a0693_f729f8f9_20260620.png?v=f729f8f9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-16bea6a450",
+          "name": "Spain vs Saudi Arabia | 23:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-16bea6a450",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-16bea6a450",
+                  "name": "Spain vs Saudi Arabia",
+                  "streams": [
+                    {
+                      "id": "st-16bea6a450",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Spain",
+            "team_b": "Saudi Arabia",
+            "logo_a": "https://media.api-sports.io/football/teams/9.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
+            "time": "23:00",
+            "date": "21/06",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-16bea6a450_f729f8f9_20260620.png?v=f729f8f9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-1d27bd4487",
+          "name": "Belgium vs Iran | 02:00 22/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1d27bd4487",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-1d27bd4487",
+                  "name": "Belgium vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-1d27bd4487",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Belgium",
+            "team_b": "Iran",
+            "logo_a": "https://media.api-sports.io/football/teams/1.png",
+            "logo_b": "https://img0.aiscore.com/football/team/56de534cf589f6d0ca09630db803ba00.png!w250",
+            "time": "02:00",
+            "date": "22/06",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1d27bd4487_90c26995_20260620.png?v=90c26995",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-84fe3029d8",
+          "name": "Belgium vs Iran | 02:00 22/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-84fe3029d8",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-84fe3029d8",
+                  "name": "Belgium vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-84fe3029d8",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Belgium",
+            "team_b": "Iran",
+            "logo_a": "https://media.api-sports.io/football/teams/1.png",
+            "logo_b": "https://img0.aiscore.com/football/team/56de534cf589f6d0ca09630db803ba00.png!w250",
+            "time": "02:00",
+            "date": "22/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-84fe3029d8_90c26995_20260620.png?v=90c26995",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-269b5ba9e3",
+          "name": "Belgium vs Iran | 02:00 22/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-269b5ba9e3",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-269b5ba9e3",
+                  "name": "Belgium vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-269b5ba9e3",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Belgium",
+            "team_b": "Iran",
+            "logo_a": "https://media.api-sports.io/football/teams/1.png",
+            "logo_b": "https://img0.aiscore.com/football/team/56de534cf589f6d0ca09630db803ba00.png!w250",
+            "time": "02:00",
+            "date": "22/06",
+            "blv": "BLV Thợ Lặn",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-269b5ba9e3_90c26995_20260620.png?v=90c26995",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
