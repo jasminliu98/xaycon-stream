@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-965dbebaff",
-          "name": "Tai'an Tiankuang vs Shandong Taishan II | 18:00 20/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-965dbebaff",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-965dbebaff",
-                  "name": "Tai'an Tiankuang vs Shandong Taishan II",
-                  "streams": [
-                    {
-                      "id": "st-965dbebaff",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa5c7698a5",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "League Two",
-            "team_a": "Tai'an Tiankuang",
-            "team_b": "Shandong Taishan II",
-            "logo_a": "https://media.api-sports.io/football/teams/19321.png",
-            "logo_b": "https://media.api-sports.io/football/teams/23288.png",
-            "time": "18:00",
-            "date": "20/06",
-            "blv": "BLV Thợ Lặn",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-965dbebaff_36661924_20260620.png?v=36661924",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-45148daa36",
           "name": "Chengdu Rongcheng II vs Yichun Grand Tiger | 19:00 20/06",
@@ -772,6 +696,310 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-7c9ae48857_54110b26_20260620.png?v=54110b26",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-a39ee84a4a",
+          "name": "Ecuador vs Curaçao | 07:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a39ee84a4a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-a39ee84a4a",
+                  "name": "Ecuador vs Curaçao",
+                  "streams": [
+                    {
+                      "id": "st-a39ee84a4a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6de9170b",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Ecuador",
+            "team_b": "Curaçao",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
+            "time": "07:00",
+            "date": "21/06",
+            "blv": "BLV Quan Vũ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a39ee84a4a_1f7adfea_20260620.png?v=1f7adfea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-a4788f784e",
+          "name": "Ecuador vs Curaçao | 07:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a4788f784e",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-a4788f784e",
+                  "name": "Ecuador vs Curaçao",
+                  "streams": [
+                    {
+                      "id": "st-a4788f784e",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221ed1ffcc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Ecuador",
+            "team_b": "Curaçao",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
+            "time": "07:00",
+            "date": "21/06",
+            "blv": "BLV Rồng Đất",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a4788f784e_1f7adfea_20260620.png?v=1f7adfea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-3416864242",
+          "name": "Tunisia vs Japan | 11:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3416864242",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-3416864242",
+                  "name": "Tunisia vs Japan",
+                  "streams": [
+                    {
+                      "id": "st-3416864242",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221ed1ffcc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Tunisia",
+            "team_b": "Japan",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRKDe94lyILdd32FBlUZ8MtMdraSrEXultA&s",
+            "logo_b": "https://media.api-sports.io/football/teams/12.png",
+            "time": "11:00",
+            "date": "21/06",
+            "blv": "BLV Rồng Đất",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3416864242_281004be_20260620.png?v=281004be",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-58240875c2",
+          "name": "Tunisia vs Japan | 11:00 21/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-58240875c2",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-58240875c2",
+                  "name": "Tunisia vs Japan",
+                  "streams": [
+                    {
+                      "id": "st-58240875c2",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab6de9170b",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Tunisia",
+            "team_b": "Japan",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRKDe94lyILdd32FBlUZ8MtMdraSrEXultA&s",
+            "logo_b": "https://media.api-sports.io/football/teams/12.png",
+            "time": "11:00",
+            "date": "21/06",
+            "blv": "BLV Quan Vũ",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-58240875c2_281004be_20260620.png?v=281004be",
             "width": 1600,
             "height": 1200
           }
