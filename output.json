@@ -11,11 +11,65 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "xc-eb698b6069",
+          "name": "Uruguay vs Cape Verde Islands | 05:00 22/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-eb698b6069",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-eb698b6069",
+                  "name": "Uruguay vs Cape Verde Islands",
+                  "streams": [
+                    {
+                      "id": "st-eb698b6069",
+                      "name": "XC",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Uruguay",
+            "team_b": "Cape Verde Islands",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
+            "time": "05:00",
+            "date": "22/06",
+            "blv": "BLV Phong Vân",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-eb698b6069_ecffdb71_20260622.png?v=ecffdb71",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "xc-e60efabd62",
           "name": "Uruguay vs Cape Verde Islands | 05:00 22/06",
@@ -93,60 +147,6 @@
           }
         },
         {
-          "id": "xc-eb698b6069",
-          "name": "Uruguay vs Cape Verde Islands | 05:00 22/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-eb698b6069",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-eb698b6069",
-                  "name": "Uruguay vs Cape Verde Islands",
-                  "streams": [
-                    {
-                      "id": "st-eb698b6069",
-                      "name": "XC",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Uruguay",
-            "team_b": "Cape Verde Islands",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
-            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
-            "time": "05:00",
-            "date": "22/06",
-            "blv": "BLV Phong Vân",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-eb698b6069_ecffdb71_20260622.png?v=ecffdb71",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "xc-847c69431a",
           "name": "Uruguay vs Cape Verde Islands | 05:00 22/06",
           "type": "single",
@@ -154,10 +154,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -210,7 +210,7 @@
             "time": "05:00",
             "date": "22/06",
             "blv": "BLV Quan Vũ",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
