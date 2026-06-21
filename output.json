@@ -93,7 +93,7 @@
           }
         },
         {
-          "id": "xc-72c0f0b188",
+          "id": "xc-fa7bd87177",
           "name": "Suzhou Dongwu vs Yunnan Yukun | 18:00 21/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -108,23 +108,23 @@
           ],
           "sources": [
             {
-              "id": "src-72c0f0b188",
+              "id": "src-fa7bd87177",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-72c0f0b188",
+                  "id": "ct-fa7bd87177",
                   "name": "Suzhou Dongwu vs Yunnan Yukun",
                   "streams": [
                     {
-                      "id": "st-72c0f0b188",
+                      "id": "st-fa7bd87177",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-30319ba8f3",
+                          "id": "lnk-ab6de9170b",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -155,7 +155,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Yunnan_Yukun_F.C.svg/960px-Yunnan_Yukun_F.C.svg.png",
             "time": "18:00",
             "date": "21/06",
-            "blv": "BLV Bịp Con",
+            "blv": "BLV Quan Vũ",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -163,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-72c0f0b188_a5212399_20260621.png?v=a5212399",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-fa7bd87177_a5212399_20260621.png?v=a5212399",
             "width": 1600,
             "height": 1200
           }
