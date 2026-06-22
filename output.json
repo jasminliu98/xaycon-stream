@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-2ae911662c",
-          "name": "Thimphu vs Tsirang | 19:00 22/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2ae911662c",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-2ae911662c",
-                  "name": "Thimphu vs Tsirang",
-                  "streams": [
-                    {
-                      "id": "st-2ae911662c",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Thimphu",
-            "team_b": "Tsirang",
-            "logo_a": "https://media.api-sports.io/football/teams/5591.png",
-            "logo_b": "https://media.api-sports.io/football/teams/21277.png",
-            "time": "19:00",
-            "date": "22/06",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2ae911662c_acff644a_20260622.png?v=acff644a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-db47c7f592",
           "name": "Asiagoal vs Bishkek City | 21:30 22/06",
