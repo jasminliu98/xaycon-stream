@@ -169,7 +169,7 @@
           }
         },
         {
-          "id": "xc-27f1a3a21a",
+          "id": "xc-af88f1d713",
           "name": "Dila vs Rustavi | 22:00 22/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -184,23 +184,23 @@
           ],
           "sources": [
             {
-              "id": "src-27f1a3a21a",
+              "id": "src-af88f1d713",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-27f1a3a21a",
+                  "id": "ct-af88f1d713",
                   "name": "Dila vs Rustavi",
                   "streams": [
                     {
-                      "id": "st-27f1a3a21a",
+                      "id": "st-af88f1d713",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-ab6de9170b",
+                          "id": "lnk-bccd486b79",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -231,7 +231,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/3501.png",
             "time": "22:00",
             "date": "22/06",
-            "blv": "BLV Quan Vũ",
+            "blv": "BLV Tam Mao",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -239,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-27f1a3a21a_62693440_20260622.png?v=62693440",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-af88f1d713_62693440_20260622.png?v=62693440",
             "width": 1600,
             "height": 1200
           }
