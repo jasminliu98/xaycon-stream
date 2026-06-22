@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-af88f1d713",
-          "name": "Dila vs Rustavi | 22:00 22/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-af88f1d713",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-af88f1d713",
-                  "name": "Dila vs Rustavi",
-                  "streams": [
-                    {
-                      "id": "st-af88f1d713",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bccd486b79",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Erovnuli Liga",
-            "team_a": "Dila",
-            "team_b": "Rustavi",
-            "logo_a": "https://media.api-sports.io/football/teams/3499.png",
-            "logo_b": "https://media.api-sports.io/football/teams/3501.png",
-            "time": "22:00",
-            "date": "22/06",
-            "blv": "BLV Tam Mao",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-af88f1d713_62693440_20260622.png?v=62693440",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-d8d5a940ca",
           "name": "Argentina vs Austria | 00:00 23/06",
