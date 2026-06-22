@@ -623,6 +623,158 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "xc-6ac7381d4a",
+          "name": "Portugal vs Uzbekistan | 00:00 24/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6ac7381d4a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-6ac7381d4a",
+                  "name": "Portugal vs Uzbekistan",
+                  "streams": [
+                    {
+                      "id": "st-6ac7381d4a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Portugal",
+            "team_b": "Uzbekistan",
+            "logo_a": "https://media.api-sports.io/football/teams/27.png",
+            "logo_b": "https://cdn.pixabay.com/photo/2013/07/13/14/17/uzbekistan-162456_1280.png",
+            "time": "00:00",
+            "date": "24/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6ac7381d4a_ff8e604e_20260622.png?v=ff8e604e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-c40bdb9298",
+          "name": "England vs Ghana | 03:00 24/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c40bdb9298",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-c40bdb9298",
+                  "name": "England vs Ghana",
+                  "streams": [
+                    {
+                      "id": "st-c40bdb9298",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "England",
+            "team_b": "Ghana",
+            "logo_a": "https://media.api-sports.io/football/teams/10.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1280px-Flag_of_Ghana.svg.png",
+            "time": "03:00",
+            "date": "24/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c40bdb9298_dd61bb02_20260622.png?v=dd61bb02",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
