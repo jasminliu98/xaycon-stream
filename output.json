@@ -93,7 +93,7 @@
           }
         },
         {
-          "id": "xc-45678f69ca",
+          "id": "xc-c9c0da9434",
           "name": "Shabab Al Sahel vs Reyady Abaseya | 20:00 24/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -108,91 +108,15 @@
           ],
           "sources": [
             {
-              "id": "src-45678f69ca",
+              "id": "src-c9c0da9434",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-45678f69ca",
+                  "id": "ct-c9c0da9434",
                   "name": "Shabab Al Sahel vs Reyady Abaseya",
                   "streams": [
                     {
-                      "id": "st-45678f69ca",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Shabab Al Sahel",
-            "team_b": "Reyady Abaseya",
-            "logo_a": "https://media.api-sports.io/football/teams/4576.png",
-            "logo_b": "https://media.api-sports.io/football/teams/22812.png",
-            "time": "20:00",
-            "date": "24/06",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-45678f69ca_6cc8eb70_20260624.png?v=6cc8eb70",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-ee2b826296",
-          "name": "Šiauliai vs Džiugas Telšiai | 22:00 24/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ee2b826296",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-ee2b826296",
-                  "name": "Šiauliai vs Džiugas Telšiai",
-                  "streams": [
-                    {
-                      "id": "st-ee2b826296",
+                      "id": "st-c9c0da9434",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -224,12 +148,12 @@
             }
           ],
           "org_metadata": {
-            "league": "Cup",
-            "team_a": "Šiauliai",
-            "team_b": "Džiugas Telšiai",
-            "logo_a": "https://media.api-sports.io/football/teams/3870.png",
-            "logo_b": "https://media.api-sports.io/football/teams/3860.png",
-            "time": "22:00",
+            "league": "Premier League",
+            "team_a": "Shabab Al Sahel",
+            "team_b": "Reyady Abaseya",
+            "logo_a": "https://media.api-sports.io/football/teams/4576.png",
+            "logo_b": "https://media.api-sports.io/football/teams/22812.png",
+            "time": "20:00",
             "date": "24/06",
             "blv": "BLV Thợ Lặn",
             "is_live": false,
@@ -239,7 +163,83 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ee2b826296_32145e06_20260624.png?v=32145e06",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c9c0da9434_6cc8eb70_20260624.png?v=6cc8eb70",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-b21c193982",
+          "name": "Šiauliai vs Džiugas Telšiai | 22:00 24/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b21c193982",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-b21c193982",
+                  "name": "Šiauliai vs Džiugas Telšiai",
+                  "streams": [
+                    {
+                      "id": "st-b21c193982",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cup",
+            "team_a": "Šiauliai",
+            "team_b": "Džiugas Telšiai",
+            "logo_a": "https://media.api-sports.io/football/teams/3870.png",
+            "logo_b": "https://media.api-sports.io/football/teams/3860.png",
+            "time": "22:00",
+            "date": "24/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b21c193982_32145e06_20260624.png?v=32145e06",
             "width": 1600,
             "height": 1200
           }
