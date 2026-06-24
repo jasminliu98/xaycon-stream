@@ -245,7 +245,7 @@
           }
         },
         {
-          "id": "xc-1b687f6700",
+          "id": "xc-6192c1ac7e",
           "name": "Gagra vs Samgurali | 23:00 24/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -260,23 +260,23 @@
           ],
           "sources": [
             {
-              "id": "src-1b687f6700",
+              "id": "src-6192c1ac7e",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-1b687f6700",
+                  "id": "ct-6192c1ac7e",
                   "name": "Gagra vs Samgurali",
                   "streams": [
                     {
-                      "id": "st-1b687f6700",
+                      "id": "st-6192c1ac7e",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-ab6de9170b",
+                          "id": "lnk-0fa0d01abf",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -307,7 +307,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/10017.png",
             "time": "23:00",
             "date": "24/06",
-            "blv": "BLV Quan Vũ",
+            "blv": "BLV Phong Vân",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1b687f6700_b706229c_20260624.png?v=b706229c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6192c1ac7e_b706229c_20260624.png?v=b706229c",
             "width": 1600,
             "height": 1200
           }
