@@ -777,7 +777,7 @@
           }
         },
         {
-          "id": "xc-8f48ff979b",
+          "id": "xc-76647fc35a",
           "name": "South Africa vs South Korea | 08:00 25/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -792,15 +792,15 @@
           ],
           "sources": [
             {
-              "id": "src-8f48ff979b",
+              "id": "src-76647fc35a",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-8f48ff979b",
+                  "id": "ct-76647fc35a",
                   "name": "South Africa vs South Korea",
                   "streams": [
                     {
-                      "id": "st-8f48ff979b",
+                      "id": "st-76647fc35a",
                       "name": "XC",
                       "stream_links": [
                         {
@@ -836,7 +836,7 @@
             "team_a": "South Africa",
             "team_b": "South Korea",
             "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/960px-Flag_of_South_Korea.svg.png",
             "time": "08:00",
             "date": "25/06",
             "blv": "BLV Quan Vũ",
@@ -847,7 +847,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8f48ff979b_638ffab5_20260624.png?v=638ffab5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-76647fc35a_f065cd13_20260624.png?v=f065cd13",
             "width": 1600,
             "height": 1200
           }
