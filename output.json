@@ -11,315 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-c985957a11",
-          "name": "Ecuador vs Germany | 03:00 26/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c985957a11",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-c985957a11",
-                  "name": "Ecuador vs Germany",
-                  "streams": [
-                    {
-                      "id": "st-c985957a11",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Ecuador",
-            "team_b": "Germany",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
-            "logo_b": "https://media.api-sports.io/football/teams/25.png",
-            "time": "03:00",
-            "date": "26/06",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c985957a11_48bef3dd_20260626.png?v=48bef3dd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-c0925f7840",
-          "name": "Ecuador vs Germany | 03:00 26/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c0925f7840",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-c0925f7840",
-                  "name": "Ecuador vs Germany",
-                  "streams": [
-                    {
-                      "id": "st-c0925f7840",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa5c7698a5",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Ecuador",
-            "team_b": "Germany",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",
-            "logo_b": "https://media.api-sports.io/football/teams/25.png",
-            "time": "03:00",
-            "date": "26/06",
-            "blv": "BLV Thợ Lặn",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-c0925f7840_48bef3dd_20260626.png?v=48bef3dd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-300784e691",
-          "name": "Curaçao vs Ivory Coast | 03:00 26/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-300784e691",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-300784e691",
-                  "name": "Curaçao vs Ivory Coast",
-                  "streams": [
-                    {
-                      "id": "st-300784e691",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bccd486b79",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Curaçao",
-            "team_b": "Ivory Coast",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-            "time": "03:00",
-            "date": "26/06",
-            "blv": "BLV Tam Mao",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-300784e691_c8413bed_20260626.png?v=c8413bed",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-a5737255e8",
-          "name": "Tunisia vs Netherlands | 06:00 26/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a5737255e8",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-a5737255e8",
-                  "name": "Tunisia vs Netherlands",
-                  "streams": [
-                    {
-                      "id": "st-a5737255e8",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Tunisia",
-            "team_b": "Netherlands",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRKDe94lyILdd32FBlUZ8MtMdraSrEXultA&s",
-            "logo_b": "https://media.api-sports.io/football/teams/1118.png",
-            "time": "06:00",
-            "date": "26/06",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a5737255e8_34c3d908_20260626.png?v=34c3d908",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-586ba51634",
           "name": "Tunisia vs Netherlands | 06:00 26/06",
@@ -473,7 +169,7 @@
           }
         },
         {
-          "id": "xc-a68c79d0a8",
+          "id": "xc-f08710c66e",
           "name": "Japan vs Sweden | 06:00 26/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -488,23 +184,23 @@
           ],
           "sources": [
             {
-              "id": "src-a68c79d0a8",
+              "id": "src-f08710c66e",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-a68c79d0a8",
+                  "id": "ct-f08710c66e",
                   "name": "Japan vs Sweden",
                   "streams": [
                     {
-                      "id": "st-a68c79d0a8",
+                      "id": "st-f08710c66e",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-221ed1ffcc",
+                          "id": "lnk-fa5c7698a5",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -535,7 +231,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/5.png",
             "time": "06:00",
             "date": "26/06",
-            "blv": "BLV Rồng Đất",
+            "blv": "BLV Thợ Lặn",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -543,7 +239,83 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a68c79d0a8_4d74de12_20260626.png?v=4d74de12",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f08710c66e_4d74de12_20260626.png?v=4d74de12",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-f2f034deef",
+          "name": "Tunisia vs Netherlands | 06:00 26/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f2f034deef",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-f2f034deef",
+                  "name": "Tunisia vs Netherlands",
+                  "streams": [
+                    {
+                      "id": "st-f2f034deef",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Tunisia",
+            "team_b": "Netherlands",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRKDe94lyILdd32FBlUZ8MtMdraSrEXultA&s",
+            "logo_b": "https://media.api-sports.io/football/teams/1118.png",
+            "time": "06:00",
+            "date": "26/06",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f2f034deef_34c3d908_20260626.png?v=34c3d908",
             "width": 1600,
             "height": 1200
           }
