@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -100,10 +100,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -156,7 +156,7 @@
             "time": "18:35",
             "date": "26/06",
             "blv": "BLV Quan Vũ",
-            "is_live": false,
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
@@ -245,7 +245,7 @@
           }
         },
         {
-          "id": "xc-9529d512e2",
+          "id": "xc-260c5f54ac",
           "name": "Taraz vs Shakhter Karagandy | 20:00 26/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -260,23 +260,23 @@
           ],
           "sources": [
             {
-              "id": "src-9529d512e2",
+              "id": "src-260c5f54ac",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-9529d512e2",
+                  "id": "ct-260c5f54ac",
                   "name": "Taraz vs Shakhter Karagandy",
                   "streams": [
                     {
-                      "id": "st-9529d512e2",
+                      "id": "st-260c5f54ac",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-221ed1ffcc",
+                          "id": "lnk-bccd486b79",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -307,7 +307,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/4566.png",
             "time": "20:00",
             "date": "26/06",
-            "blv": "BLV Rồng Đất",
+            "blv": "BLV Tam Mao",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-9529d512e2_fc4b81c2_20260626.png?v=fc4b81c2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-260c5f54ac_fc4b81c2_20260626.png?v=fc4b81c2",
             "width": 1600,
             "height": 1200
           }
