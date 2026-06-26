@@ -169,7 +169,7 @@
           }
         },
         {
-          "id": "xc-74f831407a",
+          "id": "xc-af67478dfb",
           "name": "Ekibastuz vs Astana II | 19:00 26/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -184,23 +184,23 @@
           ],
           "sources": [
             {
-              "id": "src-74f831407a",
+              "id": "src-af67478dfb",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-74f831407a",
+                  "id": "ct-af67478dfb",
                   "name": "Ekibastuz vs Astana II",
                   "streams": [
                     {
-                      "id": "st-74f831407a",
+                      "id": "st-af67478dfb",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-fa5c7698a5",
+                          "id": "lnk-30319ba8f3",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -231,7 +231,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/4548.png",
             "time": "19:00",
             "date": "26/06",
-            "blv": "BLV Thợ Lặn",
+            "blv": "BLV Bịp Con",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -239,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-74f831407a_4ec2ae36_20260626.png?v=4ec2ae36",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-af67478dfb_4ec2ae36_20260626.png?v=4ec2ae36",
             "width": 1600,
             "height": 1200
           }
@@ -473,7 +473,7 @@
           }
         },
         {
-          "id": "xc-70d1a4587d",
+          "id": "xc-332e41880e",
           "name": "FK Liepaja vs Rīgas FS | 23:00 26/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -488,23 +488,23 @@
           ],
           "sources": [
             {
-              "id": "src-70d1a4587d",
+              "id": "src-332e41880e",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-70d1a4587d",
+                  "id": "ct-332e41880e",
                   "name": "FK Liepaja vs Rīgas FS",
                   "streams": [
                     {
-                      "id": "st-70d1a4587d",
+                      "id": "st-332e41880e",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-30319ba8f3",
+                          "id": "lnk-fa5c7698a5",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -535,7 +535,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/4160.png",
             "time": "23:00",
             "date": "26/06",
-            "blv": "BLV Bịp Con",
+            "blv": "BLV Thợ Lặn",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -543,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-70d1a4587d_c484f9ba_20260626.png?v=c484f9ba",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-332e41880e_c484f9ba_20260626.png?v=c484f9ba",
             "width": 1600,
             "height": 1200
           }
