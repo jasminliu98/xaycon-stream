@@ -1233,7 +1233,7 @@
           }
         },
         {
-          "id": "xc-4d6d735198",
+          "id": "xc-abb9cc8acd",
           "name": "Mariehamn vs Inter Turku | 21:00 27/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -1248,23 +1248,23 @@
           ],
           "sources": [
             {
-              "id": "src-4d6d735198",
+              "id": "src-abb9cc8acd",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-4d6d735198",
+                  "id": "ct-abb9cc8acd",
                   "name": "Mariehamn vs Inter Turku",
                   "streams": [
                     {
-                      "id": "st-4d6d735198",
+                      "id": "st-abb9cc8acd",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-221ed1ffcc",
+                          "id": "lnk-0fa0d01abf",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1295,7 +1295,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/1164.png",
             "time": "21:00",
             "date": "27/06",
-            "blv": "BLV Rồng Đất",
+            "blv": "BLV Phong Vân",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -1303,13 +1303,13 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4d6d735198_872c9d5d_20260626.png?v=872c9d5d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-abb9cc8acd_872c9d5d_20260626.png?v=872c9d5d",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "xc-ec838f0477",
+          "id": "xc-61ecd2cda8",
           "name": "Gnistan vs VPS | 23:00 27/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -1324,23 +1324,23 @@
           ],
           "sources": [
             {
-              "id": "src-ec838f0477",
+              "id": "src-61ecd2cda8",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-ec838f0477",
+                  "id": "ct-61ecd2cda8",
                   "name": "Gnistan vs VPS",
                   "streams": [
                     {
-                      "id": "st-ec838f0477",
+                      "id": "st-61ecd2cda8",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-30319ba8f3",
+                          "id": "lnk-0fa0d01abf",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1371,7 +1371,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/650.png",
             "time": "23:00",
             "date": "27/06",
-            "blv": "BLV Bịp Con",
+            "blv": "BLV Phong Vân",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -1379,7 +1379,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ec838f0477_3d96a5aa_20260626.png?v=3d96a5aa",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-61ecd2cda8_3d96a5aa_20260626.png?v=3d96a5aa",
             "width": 1600,
             "height": 1200
           }
