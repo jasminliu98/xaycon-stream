@@ -473,7 +473,7 @@
           }
         },
         {
-          "id": "xc-f55b9be1d3",
+          "id": "xc-e51039af93",
           "name": "Uruguay vs Spain | 07:00 27/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -488,23 +488,23 @@
           ],
           "sources": [
             {
-              "id": "src-f55b9be1d3",
+              "id": "src-e51039af93",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-f55b9be1d3",
+                  "id": "ct-e51039af93",
                   "name": "Uruguay vs Spain",
                   "streams": [
                     {
-                      "id": "st-f55b9be1d3",
+                      "id": "st-e51039af93",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-30319ba8f3",
+                          "id": "lnk-ab6de9170b",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -535,7 +535,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/9.png",
             "time": "07:00",
             "date": "27/06",
-            "blv": "BLV Bịp Con",
+            "blv": "BLV Quan Vũ",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -543,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f55b9be1d3_c2a31a2a_20260626.png?v=c2a31a2a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-e51039af93_c2a31a2a_20260626.png?v=c2a31a2a",
             "width": 1600,
             "height": 1200
           }
@@ -701,7 +701,7 @@
           }
         },
         {
-          "id": "xc-b72f386a71",
+          "id": "xc-1d5abc6731",
           "name": "Cape Verde Islands vs Saudi Arabia | 07:00 27/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -716,23 +716,23 @@
           ],
           "sources": [
             {
-              "id": "src-b72f386a71",
+              "id": "src-1d5abc6731",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-b72f386a71",
+                  "id": "ct-1d5abc6731",
                   "name": "Cape Verde Islands vs Saudi Arabia",
                   "streams": [
                     {
-                      "id": "st-b72f386a71",
+                      "id": "st-1d5abc6731",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-ab6de9170b",
+                          "id": "lnk-30319ba8f3",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -763,7 +763,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png",
             "time": "07:00",
             "date": "27/06",
-            "blv": "BLV Quan Vũ",
+            "blv": "BLV Bịp Con",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -771,7 +771,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b72f386a71_fa11432c_20260626.png?v=fa11432c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1d5abc6731_fa11432c_20260626.png?v=fa11432c",
             "width": 1600,
             "height": 1200
           }
