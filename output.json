@@ -383,7 +383,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/10.png",
             "time": "04:00",
             "date": "28/06",
-            "blv": "BLV Thợ Lặn",
+            "blv": "BLV Chìm Sâu",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -611,7 +611,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/27.png",
             "time": "06:30",
             "date": "28/06",
-            "blv": "BLV Thợ Lặn",
+            "blv": "BLV Chìm Sâu",
             "is_live": false,
             "sport_slug": "bong-da"
           },
