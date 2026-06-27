@@ -11,11 +11,87 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "xc-7e2328d7c3",
+          "name": "Croatia vs Ghana | 04:00 28/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7e2328d7c3",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-7e2328d7c3",
+                  "name": "Croatia vs Ghana",
+                  "streams": [
+                    {
+                      "id": "st-7e2328d7c3",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Croatia",
+            "team_b": "Ghana",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/3840px-Flag_of_Croatia.svg.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1280px-Flag_of_Ghana.svg.png",
+            "time": "04:00",
+            "date": "28/06",
+            "blv": "BLV Bịp Con",
+            "is_live": true,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-7e2328d7c3_e1c7b698_20260628.png?v=e1c7b698",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "xc-6ca0e66a88",
           "name": "Croatia vs Ghana | 04:00 28/06",
@@ -93,38 +169,38 @@
           }
         },
         {
-          "id": "xc-7e2328d7c3",
-          "name": "Croatia vs Ghana | 04:00 28/06",
+          "id": "xc-db6bd05a3a",
+          "name": "Panama vs England | 04:00 28/06",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-7e2328d7c3",
+              "id": "src-db6bd05a3a",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-7e2328d7c3",
-                  "name": "Croatia vs Ghana",
+                  "id": "ct-db6bd05a3a",
+                  "name": "Panama vs England",
                   "streams": [
                     {
-                      "id": "st-7e2328d7c3",
+                      "id": "st-db6bd05a3a",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-30319ba8f3",
+                          "id": "lnk-bccd486b79",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -149,21 +225,21 @@
           ],
           "org_metadata": {
             "league": "World Cup",
-            "team_a": "Croatia",
-            "team_b": "Ghana",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/3840px-Flag_of_Croatia.svg.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1280px-Flag_of_Ghana.svg.png",
+            "team_a": "Panama",
+            "team_b": "England",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10.png",
             "time": "04:00",
             "date": "28/06",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
+            "blv": "BLV Tam Mao",
+            "is_live": true,
             "sport_slug": "bong-da"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-7e2328d7c3_e1c7b698_20260628.png?v=e1c7b698",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-db6bd05a3a_a598afda_20260628.png?v=a598afda",
             "width": 1600,
             "height": 1200
           }
@@ -240,82 +316,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-64989b837b_a598afda_20260628.png?v=a598afda",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-db6bd05a3a",
-          "name": "Panama vs England | 04:00 28/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-db6bd05a3a",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-db6bd05a3a",
-                  "name": "Panama vs England",
-                  "streams": [
-                    {
-                      "id": "st-db6bd05a3a",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bccd486b79",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Panama",
-            "team_b": "England",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
-            "logo_b": "https://media.api-sports.io/football/teams/10.png",
-            "time": "04:00",
-            "date": "28/06",
-            "blv": "BLV Tam Mao",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-db6bd05a3a_a598afda_20260628.png?v=a598afda",
             "width": 1600,
             "height": 1200
           }
