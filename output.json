@@ -625,7 +625,7 @@
           }
         },
         {
-          "id": "xc-f6380824ce",
+          "id": "xc-749d948965",
           "name": "Jordan vs Argentina | 09:00 28/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -640,23 +640,23 @@
           ],
           "sources": [
             {
-              "id": "src-f6380824ce",
+              "id": "src-749d948965",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-f6380824ce",
+                  "id": "ct-749d948965",
                   "name": "Jordan vs Argentina",
                   "streams": [
                     {
-                      "id": "st-f6380824ce",
+                      "id": "st-749d948965",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-fde7f94b4e",
+                          "id": "lnk-fa5c7698a5",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -687,7 +687,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
             "time": "09:00",
             "date": "28/06",
-            "blv": "BLV Chuối",
+            "blv": "BLV Chìm Sâu",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -695,7 +695,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f6380824ce_2b9abb10_20260628.png?v=2b9abb10",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-749d948965_2b9abb10_20260628.png?v=2b9abb10",
             "width": 1600,
             "height": 1200
           }
