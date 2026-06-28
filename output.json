@@ -549,7 +549,7 @@
           }
         },
         {
-          "id": "xc-f06443d871",
+          "id": "xc-751ab707fb",
           "name": "Ha Noi W vs Ho Chi Minh W | 16:00 29/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -564,23 +564,23 @@
           ],
           "sources": [
             {
-              "id": "src-f06443d871",
+              "id": "src-751ab707fb",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-f06443d871",
+                  "id": "ct-751ab707fb",
                   "name": "Ha Noi W vs Ho Chi Minh W",
                   "streams": [
                     {
-                      "id": "st-f06443d871",
+                      "id": "st-751ab707fb",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-fde7f94b4e",
+                          "id": "lnk-221ed1ffcc",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -611,7 +611,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/vi/thumb/4/47/Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg/250px-Logo_of_Cong_An_Ho_Chi_Minh_City_football_club%2C_from_Ho_Chi_Minh_City%2C_from_2025.svg.png",
             "time": "16:00",
             "date": "29/06",
-            "blv": "BLV Chuối",
+            "blv": "BLV Rồng Đất",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -619,7 +619,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f06443d871_99d7c364_20260628.png?v=99d7c364",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-751ab707fb_99d7c364_20260628.png?v=99d7c364",
             "width": 1600,
             "height": 1200
           }
