@@ -245,82 +245,6 @@
           }
         },
         {
-          "id": "xc-404739e91c",
-          "name": "Cobresal vs Antofagasta | 23:30 28/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-404739e91c",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-404739e91c",
-                  "name": "Cobresal vs Antofagasta",
-                  "streams": [
-                    {
-                      "id": "st-404739e91c",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Copa Chile",
-            "team_a": "Cobresal",
-            "team_b": "Antofagasta",
-            "logo_a": "https://media.api-sports.io/football/teams/2331.png",
-            "logo_b": "https://media.api-sports.io/football/teams/2327.png",
-            "time": "23:30",
-            "date": "28/06",
-            "blv": "BLV Bịp Con",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-404739e91c_6e3a2543_20260628.png?v=6e3a2543",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "xc-6937efc448",
           "name": "Wales U19 vs Spain U19 | 00:00 29/06",
           "type": "single",
@@ -701,7 +625,7 @@
           }
         },
         {
-          "id": "xc-cad2863b7c",
+          "id": "xc-3a503fbf40",
           "name": "Al Nejmeh vs Racing | 20:00 29/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -716,23 +640,23 @@
           ],
           "sources": [
             {
-              "id": "src-cad2863b7c",
+              "id": "src-3a503fbf40",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-cad2863b7c",
+                  "id": "ct-3a503fbf40",
                   "name": "Al Nejmeh vs Racing",
                   "streams": [
                     {
-                      "id": "st-cad2863b7c",
+                      "id": "st-3a503fbf40",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-221ed1ffcc",
+                          "id": "lnk-fde7f94b4e",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -763,7 +687,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/4572.png",
             "time": "20:00",
             "date": "29/06",
-            "blv": "BLV Rồng Đất",
+            "blv": "BLV Chuối",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -771,7 +695,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-cad2863b7c_7eefcb6e_20260628.png?v=7eefcb6e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3a503fbf40_7eefcb6e_20260628.png?v=7eefcb6e",
             "width": 1600,
             "height": 1200
           }
