@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-4f6ebd67e7",
-          "name": "Zhenys vs FC Astana | 21:00 28/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4f6ebd67e7",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-4f6ebd67e7",
-                  "name": "Zhenys vs FC Astana",
-                  "streams": [
-                    {
-                      "id": "st-4f6ebd67e7",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30319ba8f3",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Premier League",
-            "team_a": "Zhenys",
-            "team_b": "FC Astana",
-            "logo_a": "https://media.api-sports.io/football/teams/16611.png",
-            "logo_b": "https://media.api-sports.io/football/teams/562.png",
-            "time": "21:00",
-            "date": "28/06",
-            "blv": "BLV Bịp Con",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4f6ebd67e7_2f661b73_20260628.png?v=2f661b73",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-cd0dbf02b4",
           "name": "FC Isloch Minsk R. vs Belshina | 22:30 28/06",
