@@ -1157,7 +1157,7 @@
           }
         },
         {
-          "id": "xc-0c134a9bac",
+          "id": "xc-5d5a237908",
           "name": "Germany vs Paraguay | 03:30 30/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -1172,23 +1172,23 @@
           ],
           "sources": [
             {
-              "id": "src-0c134a9bac",
+              "id": "src-5d5a237908",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-0c134a9bac",
+                  "id": "ct-5d5a237908",
                   "name": "Germany vs Paraguay",
                   "streams": [
                     {
-                      "id": "st-0c134a9bac",
+                      "id": "st-5d5a237908",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-30319ba8f3",
+                          "id": "lnk-fa5c7698a5",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1219,7 +1219,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
             "time": "03:30",
             "date": "30/06",
-            "blv": "BLV Bịp Con",
+            "blv": "BLV Chìm Sâu",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -1227,7 +1227,235 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0c134a9bac_9a8c9313_20260628.png?v=9a8c9313",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5d5a237908_9a8c9313_20260628.png?v=9a8c9313",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-806a0eb2b7",
+          "name": "Germany vs Paraguay | 03:30 30/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-806a0eb2b7",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-806a0eb2b7",
+                  "name": "Germany vs Paraguay",
+                  "streams": [
+                    {
+                      "id": "st-806a0eb2b7",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Germany",
+            "team_b": "Paraguay",
+            "logo_a": "https://media.api-sports.io/football/teams/25.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",
+            "time": "03:30",
+            "date": "30/06",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-806a0eb2b7_9a8c9313_20260628.png?v=9a8c9313",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-817ef384d7",
+          "name": "Netherlands vs Morocco | 08:00 30/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-817ef384d7",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-817ef384d7",
+                  "name": "Netherlands vs Morocco",
+                  "streams": [
+                    {
+                      "id": "st-817ef384d7",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221ed1ffcc",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Netherlands",
+            "team_b": "Morocco",
+            "logo_a": "https://media.api-sports.io/football/teams/1118.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+            "time": "08:00",
+            "date": "30/06",
+            "blv": "BLV Rồng Đất",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-817ef384d7_9f20decd_20260628.png?v=9f20decd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-537a479158",
+          "name": "Netherlands vs Morocco | 08:00 30/06",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-537a479158",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-537a479158",
+                  "name": "Netherlands vs Morocco",
+                  "streams": [
+                    {
+                      "id": "st-537a479158",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fde7f94b4e",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Netherlands",
+            "team_b": "Morocco",
+            "logo_a": "https://media.api-sports.io/football/teams/1118.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+            "time": "08:00",
+            "date": "30/06",
+            "blv": "BLV Chuối",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-537a479158_9f20decd_20260628.png?v=9f20decd",
             "width": 1600,
             "height": 1200
           }
