@@ -93,7 +93,7 @@
           }
         },
         {
-          "id": "xc-812bfbd651",
+          "id": "xc-b1b93dd1ab",
           "name": "FK Tobol Kostanay vs Altay | 20:00 28/06",
           "type": "single",
           "display": "thumbnail-only",
@@ -108,23 +108,23 @@
           ],
           "sources": [
             {
-              "id": "src-812bfbd651",
+              "id": "src-b1b93dd1ab",
               "name": "XayConTV",
               "contents": [
                 {
-                  "id": "ct-812bfbd651",
+                  "id": "ct-b1b93dd1ab",
                   "name": "FK Tobol Kostanay vs Altay",
                   "streams": [
                     {
-                      "id": "st-812bfbd651",
+                      "id": "st-b1b93dd1ab",
                       "name": "XC",
                       "stream_links": [
                         {
-                          "id": "lnk-fa5c7698a5",
+                          "id": "lnk-fde7f94b4e",
                           "name": "Link FHD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -155,7 +155,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/4544.png",
             "time": "20:00",
             "date": "28/06",
-            "blv": "BLV Chìm Sâu",
+            "blv": "BLV Chuối",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -163,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-812bfbd651_686c7419_20260628.png?v=686c7419",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b1b93dd1ab_686c7419_20260628.png?v=686c7419",
             "width": 1600,
             "height": 1200
           }
