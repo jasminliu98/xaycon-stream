@@ -11,87 +11,11 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "xc-d77a90f080",
-          "name": "VPS vs Inter Turku | 22:00 30/06",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d77a90f080",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-d77a90f080",
-                  "name": "VPS vs Inter Turku",
-                  "streams": [
-                    {
-                      "id": "st-d77a90f080",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fde7f94b4e",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Suomen Cup",
-            "team_a": "VPS",
-            "team_b": "Inter Turku",
-            "logo_a": "https://media.api-sports.io/football/teams/650.png",
-            "logo_b": "https://media.api-sports.io/football/teams/1164.png",
-            "time": "22:00",
-            "date": "30/06",
-            "blv": "BLV Chuối",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-d77a90f080_75e23054_20260630.png?v=75e23054",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "xc-47a66f1a2d",
           "name": "Ivory Coast vs Norway | 00:00 01/07",
@@ -163,7 +87,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-47a66f1a2d_dcc6c722_20260630.png?v=dcc6c722",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-47a66f1a2d_dcc6c722_20260701.png?v=dcc6c722",
             "width": 1600,
             "height": 1200
           }
@@ -239,7 +163,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-43e1e0cdf5_dcc6c722_20260630.png?v=dcc6c722",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-43e1e0cdf5_dcc6c722_20260701.png?v=dcc6c722",
             "width": 1600,
             "height": 1200
           }
@@ -315,7 +239,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-68297bb334_6f968b3c_20260630.png?v=6f968b3c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-68297bb334_6f968b3c_20260701.png?v=6f968b3c",
             "width": 1600,
             "height": 1200
           }
@@ -391,7 +315,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a13bfc2b80_6f968b3c_20260630.png?v=6f968b3c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-a13bfc2b80_6f968b3c_20260701.png?v=6f968b3c",
             "width": 1600,
             "height": 1200
           }
@@ -467,7 +391,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5b4c4891cc_3182fc12_20260630.png?v=3182fc12",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-5b4c4891cc_3182fc12_20260701.png?v=3182fc12",
             "width": 1600,
             "height": 1200
           }
@@ -543,7 +467,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b23a30a184_3182fc12_20260630.png?v=3182fc12",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b23a30a184_3182fc12_20260701.png?v=3182fc12",
             "width": 1600,
             "height": 1200
           }
@@ -619,7 +543,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ceeeb0232a_6a02fa9b_20260630.png?v=6a02fa9b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ceeeb0232a_6a02fa9b_20260701.png?v=6a02fa9b",
             "width": 1600,
             "height": 1200
           }
@@ -695,7 +619,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-117acd68cb_f40a05f2_20260630.png?v=f40a05f2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-117acd68cb_f40a05f2_20260701.png?v=f40a05f2",
             "width": 1600,
             "height": 1200
           }
@@ -771,7 +695,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-88a93c997e_4a9a4bca_20260630.png?v=4a9a4bca",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-88a93c997e_4a9a4bca_20260701.png?v=4a9a4bca",
             "width": 1600,
             "height": 1200
           }
@@ -847,7 +771,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2ebec53845_cf39db4a_20260630.png?v=cf39db4a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2ebec53845_cf39db4a_20260701.png?v=cf39db4a",
             "width": 1600,
             "height": 1200
           }
@@ -923,7 +847,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-7d7d76c671_8865870a_20260630.png?v=8865870a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-7d7d76c671_8865870a_20260701.png?v=8865870a",
             "width": 1600,
             "height": 1200
           }
@@ -999,7 +923,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6ea82ef1f0_cc5006f2_20260630.png?v=cc5006f2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6ea82ef1f0_cc5006f2_20260701.png?v=cc5006f2",
             "width": 1600,
             "height": 1200
           }
@@ -1075,7 +999,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b1a4c18205_cc5006f2_20260630.png?v=cc5006f2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b1a4c18205_cc5006f2_20260701.png?v=cc5006f2",
             "width": 1600,
             "height": 1200
           }
@@ -1151,7 +1075,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b7e384060d_cc5006f2_20260630.png?v=cc5006f2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b7e384060d_cc5006f2_20260701.png?v=cc5006f2",
             "width": 1600,
             "height": 1200
           }
@@ -1227,7 +1151,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-764528654a_facd8ad7_20260630.png?v=facd8ad7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-764528654a_facd8ad7_20260701.png?v=facd8ad7",
             "width": 1600,
             "height": 1200
           }
@@ -1303,7 +1227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6ccac51476_6ae2e577_20260630.png?v=6ae2e577",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6ccac51476_6ae2e577_20260701.png?v=6ae2e577",
             "width": 1600,
             "height": 1200
           }
@@ -1379,7 +1303,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4b0ae84ae2_6ae2e577_20260630.png?v=6ae2e577",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4b0ae84ae2_6ae2e577_20260701.png?v=6ae2e577",
             "width": 1600,
             "height": 1200
           }
@@ -1455,7 +1379,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-fafaa99092_6ae2e577_20260630.png?v=6ae2e577",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-fafaa99092_6ae2e577_20260701.png?v=6ae2e577",
             "width": 1600,
             "height": 1200
           }
@@ -1531,7 +1455,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ae2c3fab14_7c1ebbc0_20260630.png?v=7c1ebbc0",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ae2c3fab14_7c1ebbc0_20260701.png?v=7c1ebbc0",
             "width": 1600,
             "height": 1200
           }
@@ -1607,7 +1531,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8643d64f8c_7c1ebbc0_20260630.png?v=7c1ebbc0",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-8643d64f8c_7c1ebbc0_20260701.png?v=7c1ebbc0",
             "width": 1600,
             "height": 1200
           }
