@@ -699,6 +699,918 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "xc-ceeeb0232a",
+          "name": "Rochedale U23 vs Moreton City Excelsior U23 | 16:30 01/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ceeeb0232a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-ceeeb0232a",
+                  "name": "Rochedale U23 vs Moreton City Excelsior U23",
+                  "streams": [
+                    {
+                      "id": "st-ceeeb0232a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b9f74b1c23",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NPL Queensland U23",
+            "team_a": "Rochedale U23",
+            "team_b": "Moreton City Excelsior U23",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/b/b4/Rochedale_Rovers_FC_logo.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Moreton_City_Excelsior_FC_new_logo.png/250px-Moreton_City_Excelsior_FC_new_logo.png",
+            "time": "16:30",
+            "date": "01/07",
+            "blv": "BLV Phủ Béo",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ceeeb0232a_6a02fa9b_20260630.png?v=6a02fa9b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-117acd68cb",
+          "name": "Hamilton Olympic vs Charlestown City Blues | 17:00 01/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-117acd68cb",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-117acd68cb",
+                  "name": "Hamilton Olympic vs Charlestown City Blues",
+                  "streams": [
+                    {
+                      "id": "st-117acd68cb",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Northern NSW NPL",
+            "team_a": "Hamilton Olympic",
+            "team_b": "Charlestown City Blues",
+            "logo_a": "https://media.api-sports.io/football/teams/10205.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10203.png",
+            "time": "17:00",
+            "date": "01/07",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-117acd68cb_f40a05f2_20260630.png?v=f40a05f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-88a93c997e",
+          "name": "Austria U19 W vs Switzerland U19 W | 19:00 01/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-88a93c997e",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-88a93c997e",
+                  "name": "Austria U19 W vs Switzerland U19 W",
+                  "streams": [
+                    {
+                      "id": "st-88a93c997e",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fde7f94b4e",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA U19 Championship - Women",
+            "team_a": "Austria U19 W",
+            "team_b": "Switzerland U19 W",
+            "logo_a": "https://media.api-sports.io/football/teams/21270.png",
+            "logo_b": "https://media.api-sports.io/football/teams/27196.png",
+            "time": "19:00",
+            "date": "01/07",
+            "blv": "BLV Chuối",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-88a93c997e_4a9a4bca_20260630.png?v=4a9a4bca",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-2ebec53845",
+          "name": "Tukums vs Super Nova | 22:00 01/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2ebec53845",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-2ebec53845",
+                  "name": "Tukums vs Super Nova",
+                  "streams": [
+                    {
+                      "id": "st-2ebec53845",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Virsliga",
+            "team_a": "Tukums",
+            "team_b": "Super Nova",
+            "logo_a": "https://media.api-sports.io/football/teams/4144.png",
+            "logo_b": "https://media.api-sports.io/football/teams/4143.png",
+            "time": "22:00",
+            "date": "01/07",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-2ebec53845_cf39db4a_20260630.png?v=cf39db4a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-7d7d76c671",
+          "name": "Spain U19 W vs Iceland U19 W | 22:00 01/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7d7d76c671",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-7d7d76c671",
+                  "name": "Spain U19 W vs Iceland U19 W",
+                  "streams": [
+                    {
+                      "id": "st-7d7d76c671",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b9f74b1c23",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA U19 Championship - Women",
+            "team_a": "Spain U19 W",
+            "team_b": "Iceland U19 W",
+            "logo_a": "https://media.api-sports.io/football/teams/19066.png",
+            "logo_b": "https://media.api-sports.io/football/teams/21272.png",
+            "time": "22:00",
+            "date": "01/07",
+            "blv": "BLV Phủ Béo",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-7d7d76c671_8865870a_20260630.png?v=8865870a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-6ea82ef1f0",
+          "name": "England vs Congo DR | 23:00 01/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6ea82ef1f0",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-6ea82ef1f0",
+                  "name": "England vs Congo DR",
+                  "streams": [
+                    {
+                      "id": "st-6ea82ef1f0",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fde7f94b4e",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "England",
+            "team_b": "Congo DR",
+            "logo_a": "https://media.api-sports.io/football/teams/10.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+            "time": "23:00",
+            "date": "01/07",
+            "blv": "BLV Chuối",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6ea82ef1f0_cc5006f2_20260630.png?v=cc5006f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-b1a4c18205",
+          "name": "England vs Congo DR | 23:00 01/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b1a4c18205",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-b1a4c18205",
+                  "name": "England vs Congo DR",
+                  "streams": [
+                    {
+                      "id": "st-b1a4c18205",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "England",
+            "team_b": "Congo DR",
+            "logo_a": "https://media.api-sports.io/football/teams/10.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+            "time": "23:00",
+            "date": "01/07",
+            "blv": "BLV Chìm Sâu",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b1a4c18205_cc5006f2_20260630.png?v=cc5006f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-b7e384060d",
+          "name": "England vs Congo DR | 23:00 01/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b7e384060d",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-b7e384060d",
+                  "name": "England vs Congo DR",
+                  "streams": [
+                    {
+                      "id": "st-b7e384060d",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "England",
+            "team_b": "Congo DR",
+            "logo_a": "https://media.api-sports.io/football/teams/10.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+            "time": "23:00",
+            "date": "01/07",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b7e384060d_cc5006f2_20260630.png?v=cc5006f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-764528654a",
+          "name": "Wales U19 vs Germany U19 | 02:00 02/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-764528654a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-764528654a",
+                  "name": "Wales U19 vs Germany U19",
+                  "streams": [
+                    {
+                      "id": "st-764528654a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA U19 Championship",
+            "team_a": "Wales U19",
+            "team_b": "Germany U19",
+            "logo_a": "https://media.api-sports.io/football/teams/10353.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10336.png",
+            "time": "02:00",
+            "date": "02/07",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-764528654a_facd8ad7_20260630.png?v=facd8ad7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-6ccac51476",
+          "name": "Belgium vs Senegal | 03:00 02/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6ccac51476",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-6ccac51476",
+                  "name": "Belgium vs Senegal",
+                  "streams": [
+                    {
+                      "id": "st-6ccac51476",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Belgium",
+            "team_b": "Senegal",
+            "logo_a": "https://media.api-sports.io/football/teams/1.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+            "time": "03:00",
+            "date": "02/07",
+            "blv": "BLV Chìm Sâu",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6ccac51476_6ae2e577_20260630.png?v=6ae2e577",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-4b0ae84ae2",
+          "name": "Belgium vs Senegal | 03:00 02/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4b0ae84ae2",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-4b0ae84ae2",
+                  "name": "Belgium vs Senegal",
+                  "streams": [
+                    {
+                      "id": "st-4b0ae84ae2",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Belgium",
+            "team_b": "Senegal",
+            "logo_a": "https://media.api-sports.io/football/teams/1.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+            "time": "03:00",
+            "date": "02/07",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-4b0ae84ae2_6ae2e577_20260630.png?v=6ae2e577",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-fafaa99092",
+          "name": "Belgium vs Senegal | 03:00 02/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fafaa99092",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-fafaa99092",
+                  "name": "Belgium vs Senegal",
+                  "streams": [
+                    {
+                      "id": "st-fafaa99092",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fde7f94b4e",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Belgium",
+            "team_b": "Senegal",
+            "logo_a": "https://media.api-sports.io/football/teams/1.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+            "time": "03:00",
+            "date": "02/07",
+            "blv": "BLV Chuối",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-fafaa99092_6ae2e577_20260630.png?v=6ae2e577",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
