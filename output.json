@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -88,82 +88,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ceeeb0232a_6a02fa9b_20260701.png?v=6a02fa9b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-117acd68cb",
-          "name": "Hamilton Olympic vs Charlestown City Blues | 17:00 01/07",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-117acd68cb",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-117acd68cb",
-                  "name": "Hamilton Olympic vs Charlestown City Blues",
-                  "streams": [
-                    {
-                      "id": "st-117acd68cb",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bccd486b79",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Northern NSW NPL",
-            "team_a": "Hamilton Olympic",
-            "team_b": "Charlestown City Blues",
-            "logo_a": "https://media.api-sports.io/football/teams/10205.png",
-            "logo_b": "https://media.api-sports.io/football/teams/10203.png",
-            "time": "17:00",
-            "date": "01/07",
-            "blv": "BLV Tam Mao",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-117acd68cb_f40a05f2_20260701.png?v=f40a05f2",
             "width": 1600,
             "height": 1200
           }
