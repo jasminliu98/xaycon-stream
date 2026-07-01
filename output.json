@@ -79,7 +79,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/27196.png",
             "time": "19:00",
             "date": "01/07",
-            "blv": "BLV Chuối",
+            "blv": "BLV Ciu",
             "is_live": true,
             "sport_slug": "bong-da"
           },
@@ -307,7 +307,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
             "time": "23:00",
             "date": "01/07",
-            "blv": "BLV Chuối",
+            "blv": "BLV Ciu",
             "is_live": false,
             "sport_slug": "bong-da"
           },
@@ -763,7 +763,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
             "time": "03:00",
             "date": "02/07",
-            "blv": "BLV Chuối",
+            "blv": "BLV Ciu",
             "is_live": false,
             "sport_slug": "bong-da"
           },
