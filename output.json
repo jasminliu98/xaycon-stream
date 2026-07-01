@@ -927,6 +927,158 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "xc-9551216fc1",
+          "name": "Jwaaya FC vs Shabab Al Sahel | 19:30 02/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9551216fc1",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-9551216fc1",
+                  "name": "Jwaaya FC vs Shabab Al Sahel",
+                  "streams": [
+                    {
+                      "id": "st-9551216fc1",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fde7f94b4e",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Premier League",
+            "team_a": "Jwaaya FC",
+            "team_b": "Shabab Al Sahel",
+            "logo_a": "https://media.api-sports.io/football/teams/26399.png",
+            "logo_b": "https://media.api-sports.io/football/teams/4576.png",
+            "time": "19:30",
+            "date": "02/07",
+            "blv": "BLV Ciu",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-9551216fc1_9e97734f_20260701.png?v=9e97734f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-853b846560",
+          "name": "Croatia U19 vs Italy U19 | 20:00 02/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-853b846560",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-853b846560",
+                  "name": "Croatia U19 vs Italy U19",
+                  "streams": [
+                    {
+                      "id": "st-853b846560",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA U19 Championship",
+            "team_a": "Croatia U19",
+            "team_b": "Italy U19",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/39/Croatia_national_football_team_crest.svg/884px-Croatia_national_football_team_crest.svg.png",
+            "logo_b": "https://media.api-sports.io/football/teams/10338.png",
+            "time": "20:00",
+            "date": "02/07",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-853b846560_4d7da3a2_20260701.png?v=4d7da3a2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
