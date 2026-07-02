@@ -397,6 +397,82 @@
           }
         },
         {
+          "id": "xc-f0ce9c6386",
+          "name": "Portugal vs Croatia | 06:00 03/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f0ce9c6386",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-f0ce9c6386",
+                  "name": "Portugal vs Croatia",
+                  "streams": [
+                    {
+                      "id": "st-f0ce9c6386",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d3a028ef88",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_thienbong/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Portugal",
+            "team_b": "Croatia",
+            "logo_a": "https://media.api-sports.io/football/teams/27.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/3840px-Flag_of_Croatia.svg.png",
+            "time": "06:00",
+            "date": "03/07",
+            "blv": "BLV Min",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-f0ce9c6386_b400ff2d_20260703.png?v=b400ff2d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "xc-0a04059ecc",
           "name": "Switzerland vs Algeria | 10:00 03/07",
           "type": "single",
@@ -544,6 +620,614 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-1cd400d2bb_27520a4a_20260703.png?v=27520a4a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-6402500268",
+          "name": "Sirius vs Mjallby AIF | 00:00 04/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6402500268",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-6402500268",
+                  "name": "Sirius vs Mjallby AIF",
+                  "streams": [
+                    {
+                      "id": "st-6402500268",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fde7f94b4e",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Allsvenskan",
+            "team_a": "Sirius",
+            "team_b": "Mjallby AIF",
+            "logo_a": "https://media.api-sports.io/football/teams/370.png",
+            "logo_b": "https://media.api-sports.io/football/teams/2240.png",
+            "time": "00:00",
+            "date": "04/07",
+            "blv": "BLV Ciu",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-6402500268_746ddf01_20260703.png?v=746ddf01",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-87f4540bf1",
+          "name": "Australia vs Egypt | 01:00 04/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87f4540bf1",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-87f4540bf1",
+                  "name": "Australia vs Egypt",
+                  "streams": [
+                    {
+                      "id": "st-87f4540bf1",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa5c7698a5",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Australia",
+            "team_b": "Egypt",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
+            "time": "01:00",
+            "date": "04/07",
+            "blv": "BLV Chìm Sâu",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-87f4540bf1_a1f99e36_20260703.png?v=a1f99e36",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-719bbc7cbd",
+          "name": "Australia vs Egypt | 01:00 04/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-719bbc7cbd",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-719bbc7cbd",
+                  "name": "Australia vs Egypt",
+                  "streams": [
+                    {
+                      "id": "st-719bbc7cbd",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d3a028ef88",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_thienbong/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Australia",
+            "team_b": "Egypt",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
+            "time": "01:00",
+            "date": "04/07",
+            "blv": "BLV Min",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-719bbc7cbd_a1f99e36_20260703.png?v=a1f99e36",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-0d21c82db7",
+          "name": "Australia vs Egypt | 01:00 04/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0d21c82db7",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-0d21c82db7",
+                  "name": "Australia vs Egypt",
+                  "streams": [
+                    {
+                      "id": "st-0d21c82db7",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Australia",
+            "team_b": "Egypt",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4Ww0xI3D6Y9wsJWTNKpRayzsESKTsT4EpA&s",
+            "time": "01:00",
+            "date": "04/07",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0d21c82db7_a1f99e36_20260703.png?v=a1f99e36",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-cef9fe4ea9",
+          "name": "Argentina vs Cape Verde Islands | 05:00 04/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cef9fe4ea9",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-cef9fe4ea9",
+                  "name": "Argentina vs Cape Verde Islands",
+                  "streams": [
+                    {
+                      "id": "st-cef9fe4ea9",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Argentina",
+            "team_b": "Cape Verde Islands",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
+            "time": "05:00",
+            "date": "04/07",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-cef9fe4ea9_bd1a8387_20260703.png?v=bd1a8387",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-0c21b8e20c",
+          "name": "Argentina vs Cape Verde Islands | 05:00 04/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0c21b8e20c",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-0c21b8e20c",
+                  "name": "Argentina vs Cape Verde Islands",
+                  "streams": [
+                    {
+                      "id": "st-0c21b8e20c",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d3a028ef88",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_thienbong/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Argentina",
+            "team_b": "Cape Verde Islands",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
+            "time": "05:00",
+            "date": "04/07",
+            "blv": "BLV Min",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0c21b8e20c_bd1a8387_20260703.png?v=bd1a8387",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-3f9115187a",
+          "name": "Argentina vs Cape Verde Islands | 05:00 04/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3f9115187a",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-3f9115187a",
+                  "name": "Argentina vs Cape Verde Islands",
+                  "streams": [
+                    {
+                      "id": "st-3f9115187a",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-30319ba8f3",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup",
+            "team_a": "Argentina",
+            "team_b": "Cape Verde Islands",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
+            "time": "05:00",
+            "date": "04/07",
+            "blv": "BLV Bịp Con",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3f9115187a_bd1a8387_20260703.png?v=bd1a8387",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "xc-74d90823ee",
+          "name": "Naples vs Portland Hearts of Pine | 06:30 04/07",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-74d90823ee",
+              "name": "XayConTV",
+              "contents": [
+                {
+                  "id": "ct-74d90823ee",
+                  "name": "Naples vs Portland Hearts of Pine",
+                  "streams": [
+                    {
+                      "id": "st-74d90823ee",
+                      "name": "XC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bccd486b79",
+                          "name": "Link FHD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://sv2.xaycon3.live/"
+                            },
+                            {
+                              "key": "Origin",
+                              "value": "https://sv2.xaycon3.live"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "USL League One",
+            "team_a": "Naples",
+            "team_b": "Portland Hearts of Pine",
+            "logo_a": "https://media.api-sports.io/football/teams/25485.png",
+            "logo_b": "https://media.api-sports.io/football/teams/25486.png",
+            "time": "06:30",
+            "date": "04/07",
+            "blv": "BLV Tam Mao",
+            "is_live": false,
+            "sport_slug": "bong-da"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-74d90823ee_25afcaba_20260703.png?v=25afcaba",
             "width": 1600,
             "height": 1200
           }
