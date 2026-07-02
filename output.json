@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "sport_bong-da",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -164,82 +164,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-0f294649d5_8c4759b2_20260703.png?v=8c4759b2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-3e10304127",
-          "name": "Spain vs Austria | 02:00 03/07",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3e10304127",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-3e10304127",
-                  "name": "Spain vs Austria",
-                  "streams": [
-                    {
-                      "id": "st-3e10304127",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d28b4b6cd",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_min/playlist.m3u88",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Spain",
-            "team_b": "Austria",
-            "logo_a": "https://media.api-sports.io/football/teams/9.png",
-            "logo_b": "https://media.api-sports.io/football/teams/775.png",
-            "time": "02:00",
-            "date": "03/07",
-            "blv": "BLV Min",
-            "is_live": true,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-3e10304127_8c4759b2_20260703.png?v=8c4759b2",
             "width": 1600,
             "height": 1200
           }
@@ -468,82 +392,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-ef29afdf8f_b400ff2d_20260703.png?v=b400ff2d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "xc-b18d480b68",
-          "name": "Portugal vs Croatia | 06:00 03/07",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b18d480b68",
-              "name": "XayConTV",
-              "contents": [
-                {
-                  "id": "ct-b18d480b68",
-                  "name": "Portugal vs Croatia",
-                  "streams": [
-                    {
-                      "id": "st-b18d480b68",
-                      "name": "XC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d28b4b6cd",
-                          "name": "Link FHD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://xclive.yarncdn.live/live/xctv_blv_min/playlist.m3u88",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://sv2.xaycon3.live/"
-                            },
-                            {
-                              "key": "Origin",
-                              "value": "https://sv2.xaycon3.live"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup",
-            "team_a": "Portugal",
-            "team_b": "Croatia",
-            "logo_a": "https://media.api-sports.io/football/teams/27.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/3840px-Flag_of_Croatia.svg.png",
-            "time": "06:00",
-            "date": "03/07",
-            "blv": "BLV Min",
-            "is_live": false,
-            "sport_slug": "bong-da"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/xaycon-stream/refs/heads/main/thumbs/xc-b18d480b68_b400ff2d_20260703.png?v=b400ff2d",
             "width": 1600,
             "height": 1200
           }
